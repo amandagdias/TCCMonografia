@@ -5,33 +5,205 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.3 }
 
-\bibitem[Baron 2015]{baron}
-\abntrefinfo{Baron}{BARON}{2015}
-{BARON, E. \emph{Ford Immersive Vehicle Environment}. 2015.
+\bibitem[ABNT - Associação Brasileira de Normas Técnicas 2000]{iso9241}
+\abntrefinfo{ABNT - Associação Brasileira de Normas Técnicas}{ABNT -
+  ASSOCIAçãO BRASILEIRA DE NORMAS TéCNICAS}{2000}
+{ABNT - ASSOCIAçãO BRASILEIRA DE NORMAS TéCNICAS. \emph{Requisitos
+  Ergonômicos para Trabalho de Escritórios com Computadores}: Parte 11 –
+  orientações sobre usabilidade.
+Rio de Janeiro, 2000.}
+
+\bibitem[Android s.d]{android}
+\abntrefinfo{Android}{ANDROID}{s.d}
+{ANDROID. \emph{Sensor Types}. s.d.
 Dispon{\'\i}vel em:
-  \url{http://s2015.siggraph.org/attendees/emerging-technologies/events/ford-immersive-vehicle-environment}.}
+  \url{https://source.android.com/devices/sensors/sensor-types.html}. Acesso
+  em: 06 dez. 2016.}
 
-\bibitem[Carvalho]{carvalho}
-\abntrefinfo{Carvalho}{CARVALHO}{}
-{CARVALHO, H. de A.
-\emph{Realidade Virtual em educação: um estudo da situação brasileira}.
-}
+\bibitem[Bergstrom e Li 2002]{bergstrom}
+\abntrefinfo{Bergstrom e Li}{BERGSTROM; LI}{2002}
+{BERGSTROM, P.~L.; LI, G.~G. Inertial sensors.
+In:  \underline{\ \ \ \ \ \ \ \ }. \emph{The MEMS Handbook}. United States of
+  America: CRC Press LLC, 2002.}
 
-\bibitem[Stonebraker et al. 1993]{stonebraker93}
-\abntrefinfo{Stonebraker et al.}{STONEBRAKER et al.}{1993}
-{STONEBRAKER, M. et al. Dbms research at a crossroads: The vienna update. In:
-  \emph{VLDB '93 Proceedings of the 19th International Conference on Very Large
-  Data Bases}. [S.l.]: Morgan Kaufmann Publishers Inc., 1993. p. 688--692.}
+\bibitem[Bluetooth s.d]{bluetooth}
+\abntrefinfo{Bluetooth}{BLUETOOTH}{s.d}
+{BLUETOOTH. \emph{How It Works}: Bluetooth is the foundation for transformative
+  wireless connectivity. s.d.
+Dispon{\'\i}vel em:
+  \url{https://www.bluetooth.com/what-is-bluetooth-technology/how-it-works}.
+  Acesso em: 06 dez. 2016.}
 
-\bibitem[Tori, Kirner e Siscouto 2006]{tori}
-\abntrefinfo{Tori, Kirner e Siscouto}{TORI; KIRNER; SISCOUTO}{2006}
-{TORI, R.; KIRNER, C.; SISCOUTO, R. Introdução. In:  \emph{Fundamentos e
-  Tecnologia de Realidade Virtual e Aumentada}. [S.l.]: Editora SBC - Sociedade
-  Brasileira de Computação, 2006. p.~2.}
+\bibitem[Brown et al. 2010]{brown}
+\abntrefinfo{Brown et al.}{BROWN et al.}{2010}
+{BROWN, M.~A. et al. Beyond the gamepad: Hci and game controller design and
+  evaluation.
+In:  \underline{\ \ \ \ \ \ \ \ }. \emph{Evaluating User Experience in Games}.
+  France: Springer, 2010. p. 197--219.}
+
+\bibitem[Carvalho 2002]{carvalho}
+\abntrefinfo{Carvalho}{CARVALHO}{2002}
+{CARVALHO, H. de A. Realidade virtual em educação: um estudo da situação
+  brasileira.
+Minas Gerais, 2002.}
+
+\bibitem[DEARBORN e MICH 2013]{ford}
+\abntrefinfo{DEARBORN e MICH}{DEARBORN; MICH}{2013}
+{DEARBORN; MICH. \emph{NEW VIRTUAL LAB IMPROVES FORD GLOBAL VEHICLE QUALITY}:
+  Engineers and designers inspect 135,000 details in 2013. 2013.
+Dispon{\'\i}vel em:
+  \url{https://media.ford.com/content/fordmedia-mobile/fna/us/en/news/2013/12/12/new-virtual-lab-improves-ford-global-vehicle-quality--engineers-.html}.
+  Acesso em: 06 dez. 2016.}
+
+\bibitem[Dimension Engineering s.d]{dimension}
+\abntrefinfo{Dimension Engineering}{DIMENSION ENGINEERING}{s.d}
+{DIMENSION ENGINEERING. \emph{A beginner’s guide to accelerometers}. s.d.
+Dispon{\'\i}vel em:
+  \url{https://www.dimensionengineering.com/info/accelerometers}. Acesso em: 06
+  dez. 2016.}
+
+\bibitem[Dix et al. 1998]{dix}
+\abntrefinfo{Dix et al.}{DIX et al.}{1998}
+{DIX, A. et al. \emph{Human-Computer Interaction}. 2. ed. Upper Saddle River,
+  NJ, USA: Prentice-Hall, Inc., 1998.}
+
+\bibitem[Forsyth 2014]{tom}
+\abntrefinfo{Forsyth}{FORSYTH}{2014}
+{FORSYTH, T. Developing vr experiences with the oculus rift. In:  . Los
+  Angeles: [s.n.], 2014. Dispon{\'\i}vel em:
+  \url{https://www3.oculus.com/en-us/blog/oculus-connect-videos-and-presentations-online/}.}
+
+\bibitem[Google 2015]{designlab}
+\abntrefinfo{Google}{GOOGLE}{2015}
+{GOOGLE. \emph{Cardboard Design Lab}. 2015.
+Dispon{\'\i}vel em:
+  \url{https://play.google.com/store/apps/details?id=com.google.vr.cardboard.apps.designlab&hl=pt-BR}.
+  Acesso em: 06 dez. 2016.}
+
+\bibitem[Google 2016]{daydream}
+\abntrefinfo{Google}{GOOGLE}{2016a}
+{GOOGLE. \emph{Daydream}. 2016.
+Dispon{\'\i}vel em: \url{https://vr.google.com/daydream/}. Acesso em: 06 dez.
+  2016.}
+
+\bibitem[Google 2016]{googledocumentacao}
+\abntrefinfo{Google}{GOOGLE}{2016b}
+{GOOGLE. \emph{Documentation}: Guides. 2016.
+Dispon{\'\i}vel em: \url{https://developers.google.com/vr/}. Acesso em: 06 dez.
+  2016.}
+
+\bibitem[Google 2016]{googleunity}
+\abntrefinfo{Google}{GOOGLE}{2016c}
+{GOOGLE. \emph{Documentation}: Google vr sdk for unity. 2016.
+Dispon{\'\i}vel em: \url{https://developers.google.com/vr/unity/}. Acesso em:
+  06 dez. 2016.}
+
+\bibitem[Google s.d]{vrsickness}
+\abntrefinfo{Google}{GOOGLE}{s.da}
+{GOOGLE. \emph{Physiological considerations}. s.d.
+Dispon{\'\i}vel em:
+  \url{https://www.google.com/design/spec-vr/designing-for-google-cardboard/physiological-considerations.html}.
+  Acesso em: 06 dez. 2016.}
+
+\bibitem[Google s.d]{googlecardboard}
+\abntrefinfo{Google}{GOOGLE}{s.db}
+{GOOGLE. \emph{Tenha um visualizador}. s.d.
+Dispon{\'\i}vel em:
+  \url{https://vr.google.com/intl/pt-BR\_pt/cardboard/get-cardboard/}. Acesso
+  em: 06 dez. 2016.}
+
+\bibitem[Governo do Rio de Janeiro s.d]{riodejaneiro}
+\abntrefinfo{Governo do Rio de Janeiro}{GOVERNO DO RIO DE JANEIRO}{s.d}
+{GOVERNO DO RIO DE JANEIRO. \emph{10 Minutos salvam vidas}: Como eliminar os
+  focos. s.d.
+Dispon{\'\i}vel em:
+  \url{http://www.riocontradengue.rj.gov.br/site/conteudo/Focos.aspx}. Acesso
+  em: 06 dez. 2016.}
+
+\bibitem[Hopkins 2015]{hopkins}
+\abntrefinfo{Hopkins}{HOPKINS}{2015}
+{HOPKINS, C. \emph{Design for Virtual Reality}. 2015.
+Dispon{\'\i}vel em:
+  \url{https://ustwo.com/blog/designing-for-virtual-reality-google-cardboard/}.
+  Acesso em: 06 dez. 2016.}
+
+\bibitem[Lee, Scheider e Schell 2005]{lee}
+\abntrefinfo{Lee, Scheider e Schell}{LEE; SCHEIDER; SCHELL}{2005}
+{LEE, V.; SCHEIDER, H.; SCHELL, R. \emph{Aplicações Móveis: Arquitetura,
+  Projeto e Desenvolvimento}. São Paulo: Makron Books, 2005.}
+
+\bibitem[Lewis 1995]{lewis}
+\abntrefinfo{Lewis}{LEWIS}{1995}
+{LEWIS, J.~R. Ibm computer usability satisfaction questionnaires: Psychometric
+  evaluation and instructions for use.
+\emph{Int. J. Hum.-Comput. Interact.}, L. Erlbaum Associates Inc., Hillsdale,
+  NJ, USA, v.~7, n.~1, p. 57--78, jan. 1995.
+ISSN 1044-7318.
+Dispon{\'\i}vel em: \url{http://dx.doi.org/10.1080/10447319509526110}.}
+
+\bibitem[McNamara e Kirakowski 2006]{mcnamara}
+\abntrefinfo{McNamara e Kirakowski}{MCNAMARA; KIRAKOWSKI}{2006}
+{MCNAMARA, N.; KIRAKOWSKI, J. Functionality, usability, and user experience:
+  Three areas of concern.
+\emph{interactions}, ACM, New York, NY, USA, v.~13, n.~6, p. 26--28, nov. 2006.
+ISSN 1072-5520.
+Dispon{\'\i}vel em: \url{http://doi.acm.org/10.1145/1167948.1167972}.}
+
+\bibitem[Milgram et al. 1994]{milgram}
+\abntrefinfo{Milgram et al.}{MILGRAM et al.}{1994}
+{MILGRAM, P. et al. Augmented reality: A class of displays on the
+  reality-virtuality continuum.
+\emph{Telemanipulator and Telepresence Technologies}, Japão, v.~2351, 1994.}
+
+\bibitem[Oculus s.d]{oculus}
+\abntrefinfo{Oculus}{OCULUS}{s.d}
+{OCULUS. \emph{Simulator Sickness}. s.d.
+Dispon{\'\i}vel em:
+  \url{https://developer3.oculus.com/documentation/intro-vr/latest/concepts/bp\_app\_simulator\_sickness/}.
+  Acesso em: 06 dez. 2016.}
+
+\bibitem[Rodrigues e Porto 2013]{rodrigues}
+\abntrefinfo{Rodrigues e Porto}{RODRIGUES; PORTO}{2013}
+{RODRIGUES, G.~P.; PORTO, C. de M. Realidade virtual: Conceitos, evolução,
+  dispositivos e aplicações.
+\emph{Interfaces Científicas}, Aracaju, p. 97--109, 2013.}
+
+\bibitem[Siscoutto et al. 2006]{siscoutto}
+\abntrefinfo{Siscoutto et al.}{SISCOUTTO et al.}{2006}
+{SISCOUTTO, R.~A. et al. Estereoscopia.
+In:  \underline{\ \ \ \ \ \ \ \ }. \emph{Fundamentos e Tecnologia de Realidade
+  Virtual e Aumentada}. 7. ed. Belém: Editora SBC - Sociedade Brasileira de
+  Computação, 2006. p. 221--245.}
+
+\bibitem[Systems 2014]{benyon}
+\abntrefinfo{Systems}{SYSTEMS}{2014}
+{SYSTEMS, D.~I. \emph{Designing Interactive Systems}: A comprehensive guide to
+  hci, ux and interaction design. United Kingdom: Pearson Education Limited,
+  2014.}
+
+\bibitem[Tori e Kirner 2006]{torilivro}
+\abntrefinfo{Tori e Kirner}{TORI; KIRNER}{2006}
+{TORI, R.; KIRNER, C. Fundamentos de realidade virtual.
+In:  \underline{\ \ \ \ \ \ \ \ }. \emph{Fundamentos e Tecnologia de Realidade
+  Virtual e Aumentada}. 7. ed. Belém: Editora SBC - Sociedade Brasileira de
+  Computação, 2006. p. 2--21.}
+
+\bibitem[Unity 2016]{unitynumbers}
+\abntrefinfo{Unity}{UNITY}{2016}
+{UNITY. \emph{O software líder global da indústria de jogos}. 2016.
+Dispon{\'\i}vel em: \url{https://unity3d.com/pt/public-relations}. Acesso em:
+  06 dez. 2016.}
+
+\bibitem[Universal Serial Bus s.d]{otg}
+\abntrefinfo{Universal Serial Bus}{UNIVERSAL SERIAL BUS}{s.d}
+{UNIVERSAL SERIAL BUS. \emph{Introduction to USB On-The-Go}. s.d.
+Dispon{\'\i}vel em:
+  \url{http://www.usb.org/developers/onthego/USB\_OTG\_Intro.pdf}. Acesso em:
+  06 dez. 2016.}
 
 \bibitem[Youngblut 1998]{youngblut}
 \abntrefinfo{Youngblut}{YOUNGBLUT}{1998}
 {YOUNGBLUT, C. Educational uses of virtual reality.
-\emph{Institute for Defense Analyses}, p. 1--131, 1998.}
+\emph{Institute for Defense Analyses}, Virginia, p. 1--131, 1998.}
 
 \end{thebibliography}
