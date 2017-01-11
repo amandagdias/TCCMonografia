@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.4.22)  12 DEC 2016 17:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.4.22)  10 JAN 2017 14:39
 entering extended mode
 **projeto.tex
 (projeto.tex
@@ -1363,7 +1363,11 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 117.
 \projeto@idxfile=\write5
 
 Writing index file projeto.idx 
-(projeto.aux)
+(projeto.aux
+
+LaTeX Warning: Label `t.ASQ' multiply defined.
+
+)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 140.
 LaTeX Font Info:    ... okay on input line 140.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 140.
@@ -1400,22 +1404,520 @@ LaTeX Info: Redefining \nameref on input line 140.
 LaTeX Info: Redefining \ref on input line 140.
 LaTeX Info: Redefining \pageref on input line 140.
 LaTeX Info: Redefining \nameref on input line 140.
-! I can't write on file `projeto.pdf'.
-Please type another file name for output
-! Emergency stop.
-<to be read again> 
-                   \edef 
-l.140 \begin{document}
-                      
-*** (job aborted, file error in nonstop mode)
+LaTeX Info: Redefining \degres on input line 140.
+LaTeX Info: Redefining \dots on input line 140.
+LaTeX Info: Redefining \up on input line 140.
+\myptabbox=\box52
+\myptabboxwidth=\skip217
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             http://www.ctan.org/tex-archive/ 
+(lastpage)             macros/latex/contrib/pageslts/ 
+(lastpage)             or
+(lastpage)             http://www.ctan.org/tex-archive/ 
+(lastpage)             install/macros/latex/contrib/pageslts.tds.zip
+(lastpage)             ! on input line 140.
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count221
+\scratchdimen=\dimen223
+\scratchbox=\box53
+\nofMPsegments=\count222
+\nofMParguments=\count223
+\everyMPshowfont=\toks51
+\MPscratchCnt=\count224
+\MPscratchDim=\dimen224
+\MPnumerator=\count225
+\makeMPintoPDFobject=\count226
+\everyMPtoPDFconversion=\toks52
+)
+LaTeX Info: Redefining \microtypecontext on input line 140.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+Package microtype Info: Loading generic settings for font family
+(microtype)             `lmss' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ ABD: EveryShipout initializing macros
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: longtable package is loaded.
 
- 
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\ltcaption.sty"
+Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 166--166
+
+ []
+
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 166.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-cmr.cfg"
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 166.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 166
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 166
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 166.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 166.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 166.
+LaTeX Font Info:    Try loading font information for U+msa on input line 166.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msa.cfg"
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 166.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msb.cfg"
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.166 
+       [1
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 208--208
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--208
+
+ []
+
+
+Overfull \hbox (16.6597pt too wide) in paragraph at lines 208--208
+[]  [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--208
+
+ []
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 208.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 208.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 208.
+[2
+
+] [3
+
+]
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 267.
+ [4
+
+] [5
+
+
+] [6
+
+] [7
+
+] [8
+
+] (projeto.lof) [9
+
+] (projeto.lot) [10
+
+] (projeto.toc
+[11
+
+]) [12] (introducao.tex
+LaTeX Font Info:    Try loading font information for OMS+lmss on input line 6.
+LaTeX Font Info:    No file OMSlmss.fd. on input line 6.
+
+
+LaTeX Font Warning: Font shape `OMS/lmss/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead on input line 6.
+
+<Imagens/daydream.jpg, id=196, 2730.2pt x 1729.46124pt>
+File: Imagens/daydream.jpg Graphic file (type jpg)
+
+<use Imagens/daydream.jpg>
+Package pdftex.def Info: Imagens/daydream.jpg used on input line 19.
+(pdftex.def)             Requested size: 409.51233pt x 259.40799pt.
+ [13
+
+
+]) (problema.tex [14 <./Imagens/daydream.jpg>]
+<Imagens/cardboard.png, id=218, 545.03625pt x 133.49875pt>
+File: Imagens/cardboard.png Graphic file (type png)
+
+<use Imagens/cardboard.png>
+Package pdftex.def Info: Imagens/cardboard.png used on input line 11.
+(pdftex.def)             Requested size: 381.52278pt x 93.44847pt.
+) (justificativa.tex [15
+
+ <./Imagens/cardboard.png>]) (objetivo.tex [16
+
+]) (metodopesquisa.tex [17
+
+]
+<Imagens/metodologia.png, id=233, 484.81125pt x 665.48625pt>
+File: Imagens/metodologia.png Graphic file (type png)
+
+<use Imagens/metodologia.png>
+Package pdftex.def Info: Imagens/metodologia.png used on input line 9.
+(pdftex.def)             Requested size: 339.36555pt x 465.83719pt.
+ [18
+
+ <./Imagens/metodologia.png>])
+(fundamentacaoteorica.tex [19]
+<Imagens/milgram.png, id=248, 560.0925pt x 128.73094pt>
+File: Imagens/milgram.png Graphic file (type png)
+
+<use Imagens/milgram.png>
+Package pdftex.def Info: Imagens/milgram.png used on input line 15.
+(pdftex.def)             Requested size: 392.06207pt x 90.11102pt.
+
+<Imagens/estereoscopia.png, id=255, 566.86781pt x 353.82187pt>
+File: Imagens/estereoscopia.png Graphic file (type png)
+
+<use Imagens/estereoscopia.png>
+Package pdftex.def Info: Imagens/estereoscopia.png used on input line 25.
+(pdftex.def)             Requested size: 396.80476pt x 247.67361pt.
+ [20
+
+ <./Imagens/milgram.png>]
+<Imagens/grausliberdade.png, id=265, 469.00218pt x 209.28188pt>
+File: Imagens/grausliberdade.png Graphic file (type png)
+
+<use Imagens/grausliberdade.png>
+Package pdftex.def Info: Imagens/grausliberdade.png used on input line 35.
+(pdftex.def)             Requested size: 469.00104pt x 209.28134pt.
+
+Overfull \hbox (14.00104pt too wide) in paragraph at lines 35--37
+ [][] 
+ []
+
+[21 <./Imagens/estereoscopia.png> <./Imagens/grausliberdade.png>] [22]
+<Imagens/designlab.png, id=292, 250.9375pt x 250.9375pt>
+File: Imagens/designlab.png Graphic file (type png)
+
+<use Imagens/designlab.png>
+Package pdftex.def Info: Imagens/designlab.png used on input line 64.
+(pdftex.def)             Requested size: 175.65504pt x 175.65504pt.
+ [23 <./Imagens/designlab.png>]
+<Imagens/makeitbeautiful.png, id=306, 1927.2pt x 1084.05pt>
+File: Imagens/makeitbeautiful.png Graphic file (type png)
+
+<use Imagens/makeitbeautiful.png>
+Package pdftex.def Info: Imagens/makeitbeautiful.png used on input line 82.
+(pdftex.def)             Requested size: 385.43318pt x 216.80615pt.
+ [24 <./Imagens/makeitbeautiful.png>] [25]
+[26] <Imagens/otg.png, id=349, 697.60625pt x 392.46625pt>
+File: Imagens/otg.png Graphic file (type png)
+
+<use Imagens/otg.png>
+Package pdftex.def Info: Imagens/otg.png used on input line 147.
+(pdftex.def)             Requested size: 202.28998pt x 113.81102pt.
+
+<Imagens/adaptador.png, id=350, 377.91188pt x 271.0125pt>
+File: Imagens/adaptador.png Graphic file (type png)
+
+<use Imagens/adaptador.png>
+Package pdftex.def Info: Imagens/adaptador.png used on input line 155.
+(pdftex.def)             Requested size: 158.7046pt x 113.81102pt.
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 144--160
+[]$[]$ $[]$ 
+ []
+
+[27 <./Imagens/otg.png (PNG copy)> <./Imagens/adaptador.png>]
+<Imagens/wiiremote.png, id=359, 268.75406pt x 256.70906pt>
+File: Imagens/wiiremote.png Graphic file (type png)
+
+<use Imagens/wiiremote.png>
+Package pdftex.def Info: Imagens/wiiremote.png used on input line 180.
+(pdftex.def)             Requested size: 159.2493pt x 152.11118pt.
+
+<Imagens/controlevrbox.jpg, id=360, 3410.7425pt x 1673.25125pt>
+File: Imagens/controlevrbox.jpg Graphic file (type jpg)
+
+<use Imagens/controlevrbox.jpg>
+Package pdftex.def Info: Imagens/controlevrbox.jpg used on input line 188.
+(pdftex.def)             Requested size: 159.2493pt x 78.10155pt.
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 177--193
+[]$[]$ $[]$ 
+ []
+
+) (ferramentas.tex [28 <./Imagens/wiiremote.png> <./Imagens/controlevrbox.jpg>]
+<Imagens/unity.png, id=371, 1027.58907pt x 493.0922pt>
+File: Imagens/unity.png Graphic file (type png)
+ <use Imagens/unity.png>
+Package pdftex.def Info: Imagens/unity.png used on input line 19.
+(pdftex.def)             Requested size: 474.35876pt x 227.62204pt.
+
+Overfull \hbox (19.35876pt too wide) in paragraph at lines 19--21
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[29
+
+] <Imagens/googlecardboard.png, id=380, 286.82156pt x 173.89969pt>
+File: Imagens/googlecardboard.png Graphic file (type png)
+
+<use Imagens/googlecardboard.png>
+Package pdftex.def Info: Imagens/googlecardboard.png used on input line 41.
+(pdftex.def)             Requested size: 187.71411pt x 113.81102pt.
+
+<Imagens/vrbox.jpg, id=385, 2661.945pt x 1695.33376pt>
+File: Imagens/vrbox.jpg Graphic file (type jpg)
+ <use Imagens/vrbox.jpg>
+Package pdftex.def Info: Imagens/vrbox.jpg used on input line 49.
+(pdftex.def)             Requested size: 178.67839pt x 113.81102pt.
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 38--54
+[]$[]$ $[]$ 
+ []
+
+[30 <./Imagens/unity.png>]
+<Imagens/modelos.png, id=395, 944.7797pt x 310.91156pt>
+File: Imagens/modelos.png Graphic file (type png)
+
+<use Imagens/modelos.png>
+Package pdftex.def Info: Imagens/modelos.png used on input line 65.
+(pdftex.def)             Requested size: 472.38869pt x 155.45538pt.
+
+Overfull \hbox (17.38869pt too wide) in paragraph at lines 65--67
+ [][] 
+ []
+
+<Imagens/extensor.jpg, id=400, 4175.6pt x 2348.775pt>
+File: Imagens/extensor.jpg Graphic file (type jpg)
+
+<use Imagens/extensor.jpg>
+Package pdftex.def Info: Imagens/extensor.jpg used on input line 77.
+(pdftex.def)             Requested size: 252.88263pt x 142.26378pt.
+ [31 <./Imagens/googlecardboard.png> <./Imagens/vrbox.jpg> <./Imagens/modelos.p
+ng>]) (aplicacao.tex [32 <./Imagens/extensor.jpg>]
+<Imagens/posicoes.jpg, id=414, 573.14125pt x 457.71pt>
+File: Imagens/posicoes.jpg Graphic file (type jpg)
+
+<use Imagens/posicoes.jpg>
+Package pdftex.def Info: Imagens/posicoes.jpg used on input line 33.
+(pdftex.def)             Requested size: 286.56992pt x 228.85445pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[33
+
+]
+Underfull \hbox (badness 4927) in paragraph at lines 46--46
+[]|\T1/lmss/m/n/10.95 (+20) Selecionar o
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+[]|\T1/lmss/m/n/10.95 (+20) Manter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\T1/lmss/m/n/10.95 (+20) o bo-tão
+ []
+
+
+Underfull \hbox (badness 4726) in paragraph at lines 46--46
+[]|\T1/lmss/m/n/10.95 (+20) Pressionar e
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+[]|\T1/lmss/m/n/10.95 (+20) Selecionar
+ []
+
+
+Underfull \hbox (badness 3302) in paragraph at lines 46--46
+\T1/lmss/m/n/10.95 (+20) o bo-tão do
+ []
+
+
+Underfull \hbox (badness 6758) in paragraph at lines 46--46
+\T1/lmss/m/n/10.95 (+20) da casa) e
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\T1/lmss/m/n/10.95 (+20) efe-tuar o
+ []
+
+
+Underfull \hbox (badness 4927) in paragraph at lines 47--47
+[]|\T1/lmss/m/n/10.95 (+20) Selecionar o
+ []
+
+
+Underfull \hbox (badness 4927) in paragraph at lines 48--48
+[]|\T1/lmss/m/n/10.95 (+20) Selecionar o
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\T1/lmss/m/n/10.95 (+20) na la-te-ral
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\T1/lmss/m/n/10.95 (+20) fron-tal do
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\T1/lmss/m/n/10.95 (+20) na la-te-ral
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\T1/lmss/m/n/10.95 (+20) fron-tal do
+ []
+
+
+Underfull \hbox (badness 4927) in paragraph at lines 49--49
+[]|\T1/lmss/m/n/10.95 (+20) Selecionar o
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[]|\T1/lmss/m/n/10.95 (+20) Botão
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[]|\T1/lmss/m/n/10.95 (+20) Botão
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[]|\T1/lmss/m/n/10.95 (+20) Botão Es-
+ []
+
+[34 <./Imagens/posicoes.jpg>]) (analise.tex [35]
+Underfull \hbox (badness 10000) in paragraph at lines 19--19
+[]|\T1/lmss/bx/n/10.95 Controle VR-
+ []
+
+
+Underfull \hbox (badness 4341) in paragraph at lines 21--21
+[]|\T1/lmss/m/n/10.95 (+20) Ocorreram atra-
+ []
+
+
+Overfull \hbox (4.93898pt too wide) in alignment at lines 16--31
+ [] [] [] [] [] 
+ []
+
+[36
+
+] [37]
+Overfull \hbox (8.73196pt too wide) in paragraph at lines 52--63
+ [][] 
+ []
+
+) (conclusao.tex [38]) (projeto.bbl (projeto.brf)
+\tf@brf=\write6
+ [39
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 3.
+
+bibitemlist
+[40
+
+] [41])
+No file projeto.ind.
+
+AED: lastpage setting LastPage
+[42]
+\tf@lof=\write7
+\tf@lot=\write8
+\tf@toc=\write9
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 398.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 398.
+ (projeto.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 398.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 398.
+Package rerunfilecheck Info: File `projeto.brf' has not changed.
+(rerunfilecheck)             Checksum: 761928FEE0633D2369E08BC659B1A305;2202.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 398.
+ ) 
 Here is how much of TeX's memory you used:
- 24973 strings out of 493698
- 431565 string characters out of 3144409
- 672715 words of memory out of 3000000
- 27920 multiletter control sequences out of 15000+200000
- 7786 words of font info for 18 fonts, out of 3000000 for 9000
+ 26488 strings out of 493698
+ 455192 string characters out of 3144409
+ 693312 words of memory out of 3000000
+ 29001 multiletter control sequences out of 15000+200000
+ 92211 words of font info for 145 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 60i,1n,54p,659b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 60i,12n,54p,1312b,664s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss8.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/lm/lmsso12.pfb>
+Output written on projeto.pdf (43 pages, 10997866 bytes).
+PDF statistics:
+ 734 PDF objects out of 1000 (max. 8388607)
+ 145 named destinations out of 1000 (max. 500000)
+ 23479 words of extra memory for PDF output out of 24883 (max. 10000000)
+

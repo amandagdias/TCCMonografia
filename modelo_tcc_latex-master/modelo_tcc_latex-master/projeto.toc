@@ -40,13 +40,13 @@
 \contentsline {section}{\numberline {8.1}Descri\IeC {\c c}\IeC {\~a}o da Aplica\IeC {\c c}\IeC {\~a}o}{33}{section.8.1}
 \contentsline {section}{\numberline {8.2}A\IeC {\c c}\IeC {\~o}es}{33}{section.8.2}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {9}\MakeTextUppercase {An\IeC {\'a}lise dos Controles}}{35}{chapter.9}
-\contentsline {section}{\numberline {9.1}Funcionalidade}{35}{section.9.1}
-\contentsline {section}{\numberline {9.2}Experi\IeC {\^e}ncia}{35}{section.9.2}
-\contentsline {section}{\numberline {9.3}Usabilidade}{36}{section.9.3}
+\contentsline {chapter}{\chapternumberline {9}\MakeTextUppercase {An\IeC {\'a}lise dos Controles}}{36}{chapter.9}
+\contentsline {section}{\numberline {9.1}Funcionalidade}{36}{section.9.1}
+\contentsline {section}{\numberline {9.2}Usabilidade}{37}{section.9.2}
+\contentsline {section}{\numberline {9.3}Experi\IeC {\^e}ncia}{38}{section.9.3}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {10}\MakeTextUppercase {Conclus\IeC {\~a}o}}{37}{chapter.10}
+\contentsline {chapter}{\chapternumberline {10}\MakeTextUppercase {Conclus\IeC {\~a}o}}{39}{chapter.10}
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{\uppercase {Refer\^encias}}{38}{section*.26}
+\contentsline {chapter}{\uppercase {Refer\^encias}}{40}{section*.28}
 \vspace {\cftbeforechapterskip }
