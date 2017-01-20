@@ -13,9 +13,9 @@
   orientações sobre usabilidade.
 Rio de Janeiro, 2000.}
 
-\bibitem[Android s.d]{android}
-\abntrefinfo{Android}{ANDROID}{s.d}
-{ANDROID. \emph{Sensor Types}. s.d.
+\bibitem[Android 2016]{android}
+\abntrefinfo{Android}{ANDROID}{2016}
+{ANDROID. \emph{Sensor Types}. 2016.
 Dispon{\'\i}vel em:
   \url{https://source.android.com/devices/sensors/sensor-types.html}. Acesso
   em: 06 dez. 2016.}
@@ -26,13 +26,13 @@ Dispon{\'\i}vel em:
 In:  \underline{\ \ \ \ \ \ \ \ }. \emph{The MEMS Handbook}. United States of
   America: CRC Press LLC, 2002.}
 
-\bibitem[Bluetooth s.d]{bluetooth}
-\abntrefinfo{Bluetooth}{BLUETOOTH}{s.d}
+\bibitem[Bluetooth 2017]{bluetooth}
+\abntrefinfo{Bluetooth}{BLUETOOTH}{2017}
 {BLUETOOTH. \emph{How It Works}: Bluetooth is the foundation for transformative
-  wireless connectivity. s.d.
+  wireless connectivity. 2017.
 Dispon{\'\i}vel em:
   \url{https://www.bluetooth.com/what-is-bluetooth-technology/how-it-works}.
-  Acesso em: 06 dez. 2016.}
+  Acesso em: 16 jan. 2017.}
 
 \bibitem[Brown et al. 2010]{brown}
 \abntrefinfo{Brown et al.}{BROWN et al.}{2010}
@@ -55,9 +55,9 @@ Dispon{\'\i}vel em:
   \url{https://media.ford.com/content/fordmedia-mobile/fna/us/en/news/2013/12/12/new-virtual-lab-improves-ford-global-vehicle-quality--engineers-.html}.
   Acesso em: 06 dez. 2016.}
 
-\bibitem[Dimension Engineering s.d]{dimension}
-\abntrefinfo{Dimension Engineering}{DIMENSION ENGINEERING}{s.d}
-{DIMENSION ENGINEERING. \emph{A beginner’s guide to accelerometers}. s.d.
+\bibitem[Dimension Engineering 2016]{dimension}
+\abntrefinfo{Dimension Engineering}{DIMENSION ENGINEERING}{2016}
+{DIMENSION ENGINEERING. \emph{A beginner’s guide to accelerometers}. 2016.
 Dispon{\'\i}vel em:
   \url{https://www.dimensionengineering.com/info/accelerometers}. Acesso em: 06
   dez. 2016.}
@@ -98,27 +98,39 @@ Dispon{\'\i}vel em: \url{https://developers.google.com/vr/}. Acesso em: 06 dez.
 Dispon{\'\i}vel em: \url{https://developers.google.com/vr/unity/}. Acesso em:
   06 dez. 2016.}
 
-\bibitem[Google s.d]{vrsickness}
-\abntrefinfo{Google}{GOOGLE}{s.da}
-{GOOGLE. \emph{Physiological considerations}. s.d.
+\bibitem[Google 2016]{vrsickness}
+\abntrefinfo{Google}{GOOGLE}{2016d}
+{GOOGLE. \emph{Physiological considerations}. 2016.
 Dispon{\'\i}vel em:
   \url{https://www.google.com/design/spec-vr/designing-for-google-cardboard/physiological-considerations.html}.
   Acesso em: 06 dez. 2016.}
 
-\bibitem[Google s.d]{googlecardboard}
-\abntrefinfo{Google}{GOOGLE}{s.db}
-{GOOGLE. \emph{Tenha um visualizador}. s.d.
+\bibitem[Google 2016]{googlecardboard}
+\abntrefinfo{Google}{GOOGLE}{2016e}
+{GOOGLE. \emph{Tenha um visualizador}. 2016.
 Dispon{\'\i}vel em:
   \url{https://vr.google.com/intl/pt-BR\_pt/cardboard/get-cardboard/}. Acesso
   em: 06 dez. 2016.}
 
-\bibitem[Governo do Rio de Janeiro s.d]{riodejaneiro}
-\abntrefinfo{Governo do Rio de Janeiro}{GOVERNO DO RIO DE JANEIRO}{s.d}
+\bibitem[Google 2017]{googleplay}
+\abntrefinfo{Google}{GOOGLE}{2017}
+{GOOGLE. \emph{Google Play}. 2017.
+Dispon{\'\i}vel em: \url{https://play.google.com/store}. Acesso em: 16 jan.
+  2017.}
+
+\bibitem[Governo do Rio de Janeiro 2016]{riodejaneiro}
+\abntrefinfo{Governo do Rio de Janeiro}{GOVERNO DO RIO DE JANEIRO}{2016}
 {GOVERNO DO RIO DE JANEIRO. \emph{10 Minutos salvam vidas}: Como eliminar os
-  focos. s.d.
+  focos. 2016.
 Dispon{\'\i}vel em:
   \url{http://www.riocontradengue.rj.gov.br/site/conteudo/Focos.aspx}. Acesso
   em: 06 dez. 2016.}
+
+\bibitem[GSMArena 2017]{motox}
+\abntrefinfo{GSMArena}{GSMARENA}{2017}
+{GSMARENA. \emph{Motorola Moto X}. 2017.
+Dispon{\'\i}vel em: \url{http://www.gsmarena.com/motorola\_moto\_x-5601.php}.
+  Acesso em: 15 jan. 2017.}
 
 \bibitem[Hopkins 2015]{hopkins}
 \abntrefinfo{Hopkins}{HOPKINS}{2015}
@@ -149,18 +161,59 @@ Dispon{\'\i}vel em: \url{http://dx.doi.org/10.1080/10447319509526110}.}
 ISSN 1072-5520.
 Dispon{\'\i}vel em: \url{http://doi.acm.org/10.1145/1167948.1167972}.}
 
+\bibitem[Microsoft 2017]{xbox}
+\abntrefinfo{Microsoft}{MICROSOFT}{2017}
+{MICROSOFT. \emph{XBOX ONE Acessórios}. 2017.
+Dispon{\'\i}vel em:
+  \url{http://www.xbox.com/pt-BR/xbox-one/accessories?controllers}. Acesso em:
+  16 jan. 2017.}
+
 \bibitem[Milgram et al. 1994]{milgram}
 \abntrefinfo{Milgram et al.}{MILGRAM et al.}{1994}
 {MILGRAM, P. et al. Augmented reality: A class of displays on the
   reality-virtuality continuum.
 \emph{Telemanipulator and Telepresence Technologies}, Japão, v.~2351, 1994.}
 
-\bibitem[Oculus s.d]{oculus}
-\abntrefinfo{Oculus}{OCULUS}{s.d}
-{OCULUS. \emph{Simulator Sickness}. s.d.
+\bibitem[Minitab 2017]{minitab}
+\abntrefinfo{Minitab}{MINITAB}{2017}
+{MINITAB. \emph{O que é ANOVA}. 2017.
+Dispon{\'\i}vel em:
+  \url{http://support.minitab.com/pt-br/minitab/17/topic-library/modeling-statistics/anova/basics/what-is-anova/}.
+  Acesso em: 18 jan. 2017.}
+
+\bibitem[Oculus 2016]{oculus}
+\abntrefinfo{Oculus}{OCULUS}{2016}
+{OCULUS. \emph{Simulator Sickness}. 2016.
 Dispon{\'\i}vel em:
   \url{https://developer3.oculus.com/documentation/intro-vr/latest/concepts/bp\_app\_simulator\_sickness/}.
   Acesso em: 06 dez. 2016.}
+
+\bibitem[Oculus 2017]{oculushome}
+\abntrefinfo{Oculus}{OCULUS}{2017}
+{OCULUS. \emph{Rift - Overview}. 2017.
+Dispon{\'\i}vel em: \url{https://www3.oculus.com/en-us/rift/}. Acesso em: 16
+  jan. 2017.}
+
+\bibitem[Oliveira 2010]{oliveira}
+\abntrefinfo{Oliveira}{OLIVEIRA}{2010}
+{OLIVEIRA, I.~A. Interface de usuário: A interação homem-computador através
+  dos tempos.
+\emph{Olhar Científico – Faculdades Associadas de Ariquemes}, Ariquemes,
+  v.~01, 2010.}
+
+\bibitem[Realiteer 2017]{realtrigger}
+\abntrefinfo{Realiteer}{REALITEER}{2017a}
+{REALITEER. \emph{Portfolio}. 2017.
+Dispon{\'\i}vel em: \url{http://www.realiteer.com/portfolio/}. Acesso em: 16
+  jan. 2017.}
+
+\bibitem[Realiteer 2017]{realiteer}
+\abntrefinfo{Realiteer}{REALITEER}{2017b}
+{REALITEER. \emph{RealTrigger: The most affordable Virtual Reality system}.
+  2017.
+Dispon{\'\i}vel em:
+  \url{https://www.kickstarter.com/projects/realiteer/realtrigger-the-most-affordable-virtual-reality-sy}.
+  Acesso em: 16 jan. 2017.}
 
 \bibitem[Rodrigues e Porto 2013]{rodrigues}
 \abntrefinfo{Rodrigues e Porto}{RODRIGUES; PORTO}{2013}
@@ -174,6 +227,15 @@ Dispon{\'\i}vel em:
 In:  \underline{\ \ \ \ \ \ \ \ }. \emph{Fundamentos e Tecnologia de Realidade
   Virtual e Aumentada}. 7. ed. Belém: Editora SBC - Sociedade Brasileira de
   Computação, 2006. p. 221--245.}
+
+\bibitem[Sony Computer Entertainment America LLC 2017]{ps4}
+\abntrefinfo{Sony Computer Entertainment America LLC}{SONY COMPUTER
+  ENTERTAINMENT AMERICA LLC}{2017}
+{SONY COMPUTER ENTERTAINMENT AMERICA LLC. \emph{DualShock®4 Controle sem fio}.
+  2017.
+Dispon{\'\i}vel em:
+  \url{https://www.playstation.com/pt-br/explore/ps4/accessories/dualshock-4-control-inalambrico/}.
+  Acesso em: 16 jan. 2017.}
 
 \bibitem[Systems 2014]{benyon}
 \abntrefinfo{Systems}{SYSTEMS}{2014}
@@ -194,12 +256,11 @@ In:  \underline{\ \ \ \ \ \ \ \ }. \emph{Fundamentos e Tecnologia de Realidade
 Dispon{\'\i}vel em: \url{https://unity3d.com/pt/public-relations}. Acesso em:
   06 dez. 2016.}
 
-\bibitem[Universal Serial Bus s.d]{otg}
-\abntrefinfo{Universal Serial Bus}{UNIVERSAL SERIAL BUS}{s.d}
-{UNIVERSAL SERIAL BUS. \emph{Introduction to USB On-The-Go}. s.d.
-Dispon{\'\i}vel em:
-  \url{http://www.usb.org/developers/onthego/USB\_OTG\_Intro.pdf}. Acesso em:
-  06 dez. 2016.}
+\bibitem[Universal Serial Bus 2016]{otg}
+\abntrefinfo{Universal Serial Bus}{UNIVERSAL SERIAL BUS}{2016}
+{UNIVERSAL SERIAL BUS. \emph{Introduction to USB On-The-Go}. 2016.
+Dispon{\'\i}vel em: \url{http://www.usb.org/developers/onthego/}. Acesso em: 06
+  dez. 2016.}
 
 \bibitem[Youngblut 1998]{youngblut}
 \abntrefinfo{Youngblut}{YOUNGBLUT}{1998}

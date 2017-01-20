@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.4.22)  10 JAN 2017 14:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.4.22)  19 JAN 2017 22:45
 entering extended mode
 **projeto.tex
 (projeto.tex
@@ -1365,7 +1365,58 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 117.
 Writing index file projeto.idx 
 (projeto.aux
 
-LaTeX Warning: Label `t.ASQ' multiply defined.
+LaTeX Warning: Label `f.questionarios' multiply defined.
+
+
+LaTeX Warning: Label `f.questionarios' multiply defined.
+
+
+LaTeX Warning: Label `f.questionarios' multiply defined.
+
+
+LaTeX Warning: Label `f.questionarios' multiply defined.
+
+
+LaTeX Warning: Label `f.questionarios' multiply defined.
+
+
+LaTeX Warning: Label `f.questionarios' multiply defined.
+
+
+LaTeX Warning: Label `f.questionarios' multiply defined.
+
+
+LaTeX Warning: Label `f.questionarios' multiply defined.
+
+
+LaTeX Warning: Label `f.questionarios' multiply defined.
+
+
+LaTeX Warning: Label `f.questionarios' multiply defined.
+
+
+LaTeX Warning: Label `f.questionarios' multiply defined.
+
+
+LaTeX Warning: Label `f.questionarios' multiply defined.
+
+
+LaTeX Warning: Label `f.questionarios' multiply defined.
+
+
+LaTeX Warning: Label `f.questionarios' multiply defined.
+
+
+LaTeX Warning: Label `f.questionarios' multiply defined.
+
+
+LaTeX Warning: Label `f.questionarios' multiply defined.
+
+
+LaTeX Warning: Label `f.questionarios' multiply defined.
+
+
+LaTeX Warning: Label `f.questionarios' multiply defined.
 
 )
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 140.
@@ -1546,85 +1597,92 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 ] [3
 
+] [4
+
+
 ]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 267.
- [4
-
-] [5
-
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 285.
+ [5
 
 ] [6
 
 ] [7
 
-] [8
+] (projeto.lof
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 7.
+LaTeX Font Info:    Try loading font information for OMS+lmss on input line 28.
 
-] (projeto.lof) [9
-
-] (projeto.lot) [10
-
-] (projeto.toc
-[11
-
-]) [12] (introducao.tex
-LaTeX Font Info:    Try loading font information for OMS+lmss on input line 6.
-LaTeX Font Info:    No file OMSlmss.fd. on input line 6.
+LaTeX Font Info:    No file OMSlmss.fd. on input line 28.
 
 
 LaTeX Font Warning: Font shape `OMS/lmss/m/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead on input line 6.
+(Font)              using `OMS/cmsy/m/n' instead on input line 28.
 
-<Imagens/daydream.jpg, id=196, 2730.2pt x 1729.46124pt>
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 28.
+) [8
+
+] (projeto.lot) [9
+
+] (projeto.toc [10
+
+]) [11] (introducao.tex
+<Imagens/daydream.jpg, id=222, 2730.2pt x 1729.46124pt>
 File: Imagens/daydream.jpg Graphic file (type jpg)
 
 <use Imagens/daydream.jpg>
 Package pdftex.def Info: Imagens/daydream.jpg used on input line 19.
 (pdftex.def)             Requested size: 409.51233pt x 259.40799pt.
- [13
+ [12
 
 
-]) (problema.tex [14 <./Imagens/daydream.jpg>]
-<Imagens/cardboard.png, id=218, 545.03625pt x 133.49875pt>
+] [13 <./Imagens/daydream.jpg>]
+<Imagens/cardboard.png, id=247, 545.03625pt x 133.49875pt>
 File: Imagens/cardboard.png Graphic file (type png)
 
 <use Imagens/cardboard.png>
-Package pdftex.def Info: Imagens/cardboard.png used on input line 11.
+Package pdftex.def Info: Imagens/cardboard.png used on input line 40.
 (pdftex.def)             Requested size: 381.52278pt x 93.44847pt.
-) (justificativa.tex [15
 
- <./Imagens/cardboard.png>]) (objetivo.tex [16
+<Imagens/botaocardboard1.jpg, id=249, 2348.775pt x 2299.59125pt>
+File: Imagens/botaocardboard1.jpg Graphic file (type jpg)
 
-]) (metodopesquisa.tex [17
+<use Imagens/botaocardboard1.jpg>
+Package pdftex.def Info: Imagens/botaocardboard1.jpg used on input line 50.
+(pdftex.def)             Requested size: 145.29282pt x 142.26378pt.
 
-]
-<Imagens/metodologia.png, id=233, 484.81125pt x 665.48625pt>
-File: Imagens/metodologia.png Graphic file (type png)
+<Imagens/botaocardboard2.jpg, id=250, 2347.77126pt x 2538.48375pt>
+File: Imagens/botaocardboard2.jpg Graphic file (type jpg)
 
-<use Imagens/metodologia.png>
-Package pdftex.def Info: Imagens/metodologia.png used on input line 9.
-(pdftex.def)             Requested size: 339.36555pt x 465.83719pt.
- [18
+<use Imagens/botaocardboard2.jpg>
+Package pdftex.def Info: Imagens/botaocardboard2.jpg used on input line 58.
+(pdftex.def)             Requested size: 131.54594pt x 142.26378pt.
 
- <./Imagens/metodologia.png>])
-(fundamentacaoteorica.tex [19]
-<Imagens/milgram.png, id=248, 560.0925pt x 128.73094pt>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 47--63
+[]$[]$ $[]$ 
+ []
+
+[14 <./Imagens/cardboard.png> <./Imagens/botaocardboard1.jpg> <./Imagens/botaoc
+ardboard2.jpg>] [15]) (fundamentacaoteorica.tex [16]
+<Imagens/milgram.png, id=272, 560.0925pt x 128.73094pt>
 File: Imagens/milgram.png Graphic file (type png)
 
 <use Imagens/milgram.png>
 Package pdftex.def Info: Imagens/milgram.png used on input line 15.
 (pdftex.def)             Requested size: 392.06207pt x 90.11102pt.
 
-<Imagens/estereoscopia.png, id=255, 566.86781pt x 353.82187pt>
+<Imagens/estereoscopia.png, id=280, 566.86781pt x 353.82187pt>
 File: Imagens/estereoscopia.png Graphic file (type png)
 
 <use Imagens/estereoscopia.png>
 Package pdftex.def Info: Imagens/estereoscopia.png used on input line 25.
 (pdftex.def)             Requested size: 396.80476pt x 247.67361pt.
- [20
+ [17
 
  <./Imagens/milgram.png>]
-<Imagens/grausliberdade.png, id=265, 469.00218pt x 209.28188pt>
+<Imagens/grausliberdade.png, id=291, 469.00218pt x 209.28188pt>
 File: Imagens/grausliberdade.png Graphic file (type png)
 
 <use Imagens/grausliberdade.png>
@@ -1635,262 +1693,400 @@ Overfull \hbox (14.00104pt too wide) in paragraph at lines 35--37
  [][] 
  []
 
-[21 <./Imagens/estereoscopia.png> <./Imagens/grausliberdade.png>] [22]
-<Imagens/designlab.png, id=292, 250.9375pt x 250.9375pt>
+[18 <./Imagens/estereoscopia.png> <./Imagens/grausliberdade.png>] [19]
+<Imagens/designlab.png, id=321, 786.68906pt x 435.87843pt>
 File: Imagens/designlab.png Graphic file (type png)
 
 <use Imagens/designlab.png>
 Package pdftex.def Info: Imagens/designlab.png used on input line 64.
-(pdftex.def)             Requested size: 175.65504pt x 175.65504pt.
- [23 <./Imagens/designlab.png>]
-<Imagens/makeitbeautiful.png, id=306, 1927.2pt x 1084.05pt>
+(pdftex.def)             Requested size: 393.34357pt x 217.93867pt.
+ [20 <./Imagens/designlab.png>]
+<Imagens/makeitbeautiful.png, id=337, 1927.2pt x 1084.05pt>
 File: Imagens/makeitbeautiful.png Graphic file (type png)
 
 <use Imagens/makeitbeautiful.png>
 Package pdftex.def Info: Imagens/makeitbeautiful.png used on input line 82.
 (pdftex.def)             Requested size: 385.43318pt x 216.80615pt.
- [24 <./Imagens/makeitbeautiful.png>] [25]
-[26] <Imagens/otg.png, id=349, 697.60625pt x 392.46625pt>
-File: Imagens/otg.png Graphic file (type png)
+ [21 <./Imagens/makeitbeautiful.png>]
+<Imagens/qwert.jpg, id=352, 3917.63625pt x 1484.54625pt>
+File: Imagens/qwert.jpg Graphic file (type jpg)
 
-<use Imagens/otg.png>
-Package pdftex.def Info: Imagens/otg.png used on input line 147.
-(pdftex.def)             Requested size: 202.28998pt x 113.81102pt.
+<use Imagens/qwert.jpg>
+Package pdftex.def Info: Imagens/qwert.jpg used on input line 100.
+(pdftex.def)             Requested size: 375.40733pt x 142.26378pt.
+ [22 <./Imagens/qwert.jpg>] [23]) (desenvolvimento.tex
+[24] <Imagens/metodologia.png, id=386, 484.81125pt x 665.48625pt>
+File: Imagens/metodologia.png Graphic file (type png)
 
-<Imagens/adaptador.png, id=350, 377.91188pt x 271.0125pt>
-File: Imagens/adaptador.png Graphic file (type png)
+<use Imagens/metodologia.png>
+Package pdftex.def Info: Imagens/metodologia.png used on input line 12.
+(pdftex.def)             Requested size: 339.36555pt x 465.83719pt.
+ [25
 
-<use Imagens/adaptador.png>
-Package pdftex.def Info: Imagens/adaptador.png used on input line 155.
-(pdftex.def)             Requested size: 158.7046pt x 113.81102pt.
+ <./Imagens/metodologia.png>] [26]
+<Imagens/otg.jpg, id=402, 2653.915pt x 2247.39626pt>
+File: Imagens/otg.jpg Graphic file (type jpg)
+ <use Imagens/otg.jpg>
+Package pdftex.def Info: Imagens/otg.jpg used on input line 47.
+(pdftex.def)             Requested size: 134.36383pt x 113.81102pt.
 
-Overfull \hbox (2.61107pt too wide) in paragraph at lines 144--160
+<Imagens/adaptador.jpg, id=403, 3698.81876pt x 2347.77126pt>
+File: Imagens/adaptador.jpg Graphic file (type jpg)
+
+<use Imagens/adaptador.jpg>
+Package pdftex.def Info: Imagens/adaptador.jpg used on input line 55.
+(pdftex.def)             Requested size: 179.25139pt x 113.81102pt.
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 44--60
 []$[]$ $[]$ 
  []
 
-[27 <./Imagens/otg.png (PNG copy)> <./Imagens/adaptador.png>]
-<Imagens/wiiremote.png, id=359, 268.75406pt x 256.70906pt>
-File: Imagens/wiiremote.png Graphic file (type png)
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 68.
+<Imagens/wiiremote.jpg, id=408, 2348.775pt x 3638.59375pt>
+File: Imagens/wiiremote.jpg Graphic file (type jpg)
 
-<use Imagens/wiiremote.png>
-Package pdftex.def Info: Imagens/wiiremote.png used on input line 180.
-(pdftex.def)             Requested size: 159.2493pt x 152.11118pt.
+<use Imagens/wiiremote.jpg>
+Package pdftex.def Info: Imagens/wiiremote.jpg used on input line 80.
+(pdftex.def)             Requested size: 159.2493pt x 246.67712pt.
 
-<Imagens/controlevrbox.jpg, id=360, 3410.7425pt x 1673.25125pt>
+<Imagens/controlevrbox.jpg, id=409, 3410.7425pt x 1673.25125pt>
 File: Imagens/controlevrbox.jpg Graphic file (type jpg)
 
 <use Imagens/controlevrbox.jpg>
-Package pdftex.def Info: Imagens/controlevrbox.jpg used on input line 188.
+Package pdftex.def Info: Imagens/controlevrbox.jpg used on input line 88.
 (pdftex.def)             Requested size: 159.2493pt x 78.10155pt.
 
-Overfull \hbox (2.61107pt too wide) in paragraph at lines 177--193
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 77--93
 []$[]$ $[]$ 
  []
 
-) (ferramentas.tex [28 <./Imagens/wiiremote.png> <./Imagens/controlevrbox.jpg>]
-<Imagens/unity.png, id=371, 1027.58907pt x 493.0922pt>
+[27 <./Imagens/otg.jpg> <./Imagens/adaptador.jpg>] [28 <./Imagens/wiiremote.jpg
+> <./Imagens/controlevrbox.jpg>]
+<Imagens/unity.png, id=425, 1027.58907pt x 493.0922pt>
 File: Imagens/unity.png Graphic file (type png)
  <use Imagens/unity.png>
-Package pdftex.def Info: Imagens/unity.png used on input line 19.
-(pdftex.def)             Requested size: 474.35876pt x 227.62204pt.
+Package pdftex.def Info: Imagens/unity.png used on input line 116.
+(pdftex.def)             Requested size: 355.773pt x 170.71652pt.
 
-Overfull \hbox (19.35876pt too wide) in paragraph at lines 19--21
- [][] 
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[29
-
-] <Imagens/googlecardboard.png, id=380, 286.82156pt x 173.89969pt>
+[29 <./Imagens/unity.png>]
+<Imagens/googlecardboard.png, id=437, 286.82156pt x 173.89969pt>
 File: Imagens/googlecardboard.png Graphic file (type png)
 
 <use Imagens/googlecardboard.png>
-Package pdftex.def Info: Imagens/googlecardboard.png used on input line 41.
+Package pdftex.def Info: Imagens/googlecardboard.png used on input line 138.
 (pdftex.def)             Requested size: 187.71411pt x 113.81102pt.
 
-<Imagens/vrbox.jpg, id=385, 2661.945pt x 1695.33376pt>
+<Imagens/vrbox.jpg, id=442, 2661.945pt x 1695.33376pt>
 File: Imagens/vrbox.jpg Graphic file (type jpg)
  <use Imagens/vrbox.jpg>
-Package pdftex.def Info: Imagens/vrbox.jpg used on input line 49.
+Package pdftex.def Info: Imagens/vrbox.jpg used on input line 146.
 (pdftex.def)             Requested size: 178.67839pt x 113.81102pt.
 
-Overfull \hbox (2.61107pt too wide) in paragraph at lines 38--54
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 135--151
 []$[]$ $[]$ 
  []
 
-[30 <./Imagens/unity.png>]
-<Imagens/modelos.png, id=395, 944.7797pt x 310.91156pt>
+<Imagens/modelos.png, id=446, 944.7797pt x 310.91156pt>
 File: Imagens/modelos.png Graphic file (type png)
 
 <use Imagens/modelos.png>
-Package pdftex.def Info: Imagens/modelos.png used on input line 65.
-(pdftex.def)             Requested size: 472.38869pt x 155.45538pt.
-
-Overfull \hbox (17.38869pt too wide) in paragraph at lines 65--67
- [][] 
- []
-
-<Imagens/extensor.jpg, id=400, 4175.6pt x 2348.775pt>
+Package pdftex.def Info: Imagens/modelos.png used on input line 161.
+(pdftex.def)             Requested size: 432.29735pt x 142.26378pt.
+ [30 <./Imagens/googlecardboard.png> <./Imagens/vrbox.jpg> <./Imagens/modelos.p
+ng>]
+<Imagens/extensor.jpg, id=460, 4175.6pt x 2348.775pt>
 File: Imagens/extensor.jpg Graphic file (type jpg)
 
 <use Imagens/extensor.jpg>
-Package pdftex.def Info: Imagens/extensor.jpg used on input line 77.
+Package pdftex.def Info: Imagens/extensor.jpg used on input line 173.
 (pdftex.def)             Requested size: 252.88263pt x 142.26378pt.
- [31 <./Imagens/googlecardboard.png> <./Imagens/vrbox.jpg> <./Imagens/modelos.p
-ng>]) (aplicacao.tex [32 <./Imagens/extensor.jpg>]
-<Imagens/posicoes.jpg, id=414, 573.14125pt x 457.71pt>
+ [31 <./Imagens/extensor.jpg>] [32]
+<Imagens/posicoes.jpg, id=479, 573.14125pt x 457.71pt>
 File: Imagens/posicoes.jpg Graphic file (type jpg)
 
 <use Imagens/posicoes.jpg>
-Package pdftex.def Info: Imagens/posicoes.jpg used on input line 33.
+Package pdftex.def Info: Imagens/posicoes.jpg used on input line 251.
 (pdftex.def)             Requested size: 286.56992pt x 228.85445pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 263--263
+[]|\T1/lmss/bx/n/10.95 Dispositivo
+ []
 
-LaTeX Warning: `h' float specifier changed to `ht'.
 
-[33
-
-]
-Underfull \hbox (badness 4927) in paragraph at lines 46--46
+Underfull \hbox (badness 4927) in paragraph at lines 265--265
 []|\T1/lmss/m/n/10.95 (+20) Selecionar o
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--46
+Underfull \hbox (badness 10000) in paragraph at lines 265--265
 []|\T1/lmss/m/n/10.95 (+20) Manter
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--46
+Underfull \hbox (badness 10000) in paragraph at lines 265--265
 \T1/lmss/m/n/10.95 (+20) o bo-tão
  []
 
 
-Underfull \hbox (badness 4726) in paragraph at lines 46--46
+Underfull \hbox (badness 4726) in paragraph at lines 265--265
 []|\T1/lmss/m/n/10.95 (+20) Pressionar e
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--46
+Underfull \hbox (badness 10000) in paragraph at lines 265--265
 []|\T1/lmss/m/n/10.95 (+20) Selecionar
  []
 
 
-Underfull \hbox (badness 3302) in paragraph at lines 46--46
+Underfull \hbox (badness 3302) in paragraph at lines 265--265
 \T1/lmss/m/n/10.95 (+20) o bo-tão do
  []
 
 
-Underfull \hbox (badness 6758) in paragraph at lines 46--46
+Underfull \hbox (badness 6758) in paragraph at lines 265--265
 \T1/lmss/m/n/10.95 (+20) da casa) e
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--46
+Underfull \hbox (badness 10000) in paragraph at lines 265--265
 \T1/lmss/m/n/10.95 (+20) efe-tuar o
  []
 
 
-Underfull \hbox (badness 4927) in paragraph at lines 47--47
+Underfull \hbox (badness 4927) in paragraph at lines 266--266
 []|\T1/lmss/m/n/10.95 (+20) Selecionar o
  []
 
 
-Underfull \hbox (badness 4927) in paragraph at lines 48--48
+Underfull \hbox (badness 4927) in paragraph at lines 267--267
 []|\T1/lmss/m/n/10.95 (+20) Selecionar o
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--48
+Underfull \hbox (badness 10000) in paragraph at lines 267--267
 \T1/lmss/m/n/10.95 (+20) na la-te-ral
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--48
+Underfull \hbox (badness 10000) in paragraph at lines 267--267
 \T1/lmss/m/n/10.95 (+20) fron-tal do
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--48
+Underfull \hbox (badness 10000) in paragraph at lines 267--267
 \T1/lmss/m/n/10.95 (+20) na la-te-ral
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--48
+Underfull \hbox (badness 10000) in paragraph at lines 267--267
 \T1/lmss/m/n/10.95 (+20) fron-tal do
  []
 
 
-Underfull \hbox (badness 4927) in paragraph at lines 49--49
+Underfull \hbox (badness 4927) in paragraph at lines 268--268
 []|\T1/lmss/m/n/10.95 (+20) Selecionar o
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--49
+Underfull \hbox (badness 10000) in paragraph at lines 268--268
 []|\T1/lmss/m/n/10.95 (+20) Botão
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--49
+Underfull \hbox (badness 10000) in paragraph at lines 268--268
 []|\T1/lmss/m/n/10.95 (+20) Botão
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--49
+Underfull \hbox (badness 10000) in paragraph at lines 268--268
 []|\T1/lmss/m/n/10.95 (+20) Botão Es-
  []
 
-[34 <./Imagens/posicoes.jpg>]) (analise.tex [35]
-Underfull \hbox (badness 10000) in paragraph at lines 19--19
-[]|\T1/lmss/bx/n/10.95 Controle VR-
+) (analise.tex [33 <./Imagens/posicoes.jpg>] [34]
+<Imagens/controles.jpg, id=492, 3784.1375pt x 2121.9275pt>
+File: Imagens/controles.jpg Graphic file (type jpg)
+
+<use Imagens/controles.jpg>
+Package pdftex.def Info: Imagens/controles.jpg used on input line 9.
+(pdftex.def)             Requested size: 355.16621pt x 199.16928pt.
+ [35
+
+ <./Imagens/controles.jpg>] [36] [37]
+<Imagens/anovaasq.png, id=529, 456.95718pt x 246.1697pt>
+File: Imagens/anovaasq.png Graphic file (type png)
+
+<use Imagens/anovaasq.png>
+Package pdftex.def Info: Imagens/anovaasq.png used on input line 68.
+(pdftex.def)             Requested size: 319.86784pt x 172.3176pt.
+ [38 <./Imagens/anovaasq.png>]
+<Imagens/anovapssuq.png, id=538, 457.71pt x 245.41687pt>
+File: Imagens/anovapssuq.png Graphic file (type png)
+
+<use Imagens/anovapssuq.png>
+Package pdftex.def Info: Imagens/anovapssuq.png used on input line 98.
+(pdftex.def)             Requested size: 320.39482pt x 171.79062pt.
+ [39 <./Imagens/anovapssuq.png>]) (conclusao.tex
+[40] [41
+
+] <Imagens/xbox.png, id=559, 299.61937pt x 235.63031pt>
+File: Imagens/xbox.png Graphic file (type png)
+
+<use Imagens/xbox.png>
+Package pdftex.def Info: Imagens/xbox.png used on input line 23.
+(pdftex.def)             Requested size: 180.89767pt x 142.26378pt.
+
+<Imagens/dualshock4.jpg, id=564, 1044.90375pt x 789.95125pt>
+File: Imagens/dualshock4.jpg Graphic file (type jpg)
+
+<use Imagens/dualshock4.jpg>
+Package pdftex.def Info: Imagens/dualshock4.jpg used on input line 31.
+(pdftex.def)             Requested size: 188.17021pt x 142.26378pt.
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 20--36
+[]$[]$ $[]$ 
  []
 
+[42 <./Imagens/xbox.png> <./Imagens/dualshock4.jpg>]
+<Imagens/oculustouch.png, id=582, 797.98125pt x 379.4175pt>
+File: Imagens/oculustouch.png Graphic file (type png)
 
-Underfull \hbox (badness 4341) in paragraph at lines 21--21
-[]|\T1/lmss/m/n/10.95 (+20) Ocorreram atra-
- []
+<use Imagens/oculustouch.png>
+Package pdftex.def Info: Imagens/oculustouch.png used on input line 46.
+(pdftex.def)             Requested size: 299.2057pt x 142.26378pt.
 
+<Imagens/realtrigger.png, id=590, 634.62094pt x 369.63094pt>
+File: Imagens/realtrigger.png Graphic file (type png)
 
-Overfull \hbox (4.93898pt too wide) in alignment at lines 16--31
- [] [] [] [] [] 
- []
-
-[36
-
-] [37]
-Overfull \hbox (8.73196pt too wide) in paragraph at lines 52--63
- [][] 
- []
-
-) (conclusao.tex [38]) (projeto.bbl (projeto.brf)
-\tf@brf=\write6
- [39
+<use Imagens/realtrigger.png>
+Package pdftex.def Info: Imagens/realtrigger.png used on input line 56.
+(pdftex.def)             Requested size: 341.95425pt x 199.16928pt.
+ [43 <./Imagens/oculustouch.png>]) (apendice1.tex
+[44 <./Imagens/realtrigger.png>] [45
 
 ]
+<Imagens/questionarios.png, id=613, 702.37407pt x 89.58469pt>
+File: Imagens/questionarios.png Graphic file (type png)
+
+<use Imagens/questionarios.png>
+Package pdftex.def Info: Imagens/questionarios.png used on input line 35.
+(pdftex.def)             Requested size: 421.42769pt x 53.75122pt.
+File: Imagens/questionarios.png Graphic file (type png)
+ <use Imagens/questionarios.png>
+Package pdftex.def Info: Imagens/questionarios.png used on input line 43.
+(pdftex.def)             Requested size: 421.42769pt x 53.75122pt.
+File: Imagens/questionarios.png Graphic file (type png)
+
+<use Imagens/questionarios.png>
+Package pdftex.def Info: Imagens/questionarios.png used on input line 54.
+(pdftex.def)             Requested size: 421.42769pt x 53.75122pt.
+File: Imagens/questionarios.png Graphic file (type png)
+ <use Imagens/questionarios.png>
+Package pdftex.def Info: Imagens/questionarios.png used on input line 61.
+(pdftex.def)             Requested size: 421.42769pt x 53.75122pt.
+File: Imagens/questionarios.png Graphic file (type png)
+
+<use Imagens/questionarios.png>
+Package pdftex.def Info: Imagens/questionarios.png used on input line 71.
+(pdftex.def)             Requested size: 421.42769pt x 53.75122pt.
+File: Imagens/questionarios.png Graphic file (type png)
+ <use Imagens/questionarios.png>
+Package pdftex.def Info: Imagens/questionarios.png used on input line 79.
+(pdftex.def)             Requested size: 421.42769pt x 53.75122pt.
+ [46 <./Imagens/questionarios.png>]
+File: Imagens/questionarios.png Graphic file (type png)
+ <use Imagens/questionarios.png>
+Package pdftex.def Info: Imagens/questionarios.png used on input line 90.
+(pdftex.def)             Requested size: 421.42769pt x 53.75122pt.
+File: Imagens/questionarios.png Graphic file (type png)
+
+<use Imagens/questionarios.png>
+Package pdftex.def Info: Imagens/questionarios.png used on input line 98.
+(pdftex.def)             Requested size: 421.42769pt x 53.75122pt.
+) (apendice2.tex [47]
+File: Imagens/questionarios.png Graphic file (type png)
+
+<use Imagens/questionarios.png>
+Package pdftex.def Info: Imagens/questionarios.png used on input line 9.
+(pdftex.def)             Requested size: 421.42769pt x 53.75122pt.
+File: Imagens/questionarios.png Graphic file (type png)
+ <use Imagens/questionarios.png>
+Package pdftex.def Info: Imagens/questionarios.png used on input line 16.
+(pdftex.def)             Requested size: 421.42769pt x 53.75122pt.
+File: Imagens/questionarios.png Graphic file (type png)
+
+<use Imagens/questionarios.png>
+Package pdftex.def Info: Imagens/questionarios.png used on input line 23.
+(pdftex.def)             Requested size: 421.42769pt x 53.75122pt.
+File: Imagens/questionarios.png Graphic file (type png)
+ <use Imagens/questionarios.png>
+Package pdftex.def Info: Imagens/questionarios.png used on input line 30.
+(pdftex.def)             Requested size: 421.42769pt x 53.75122pt.
+File: Imagens/questionarios.png Graphic file (type png)
+
+<use Imagens/questionarios.png>
+Package pdftex.def Info: Imagens/questionarios.png used on input line 37.
+(pdftex.def)             Requested size: 421.42769pt x 53.75122pt.
+File: Imagens/questionarios.png Graphic file (type png)
+ <use Imagens/questionarios.png>
+Package pdftex.def Info: Imagens/questionarios.png used on input line 44.
+(pdftex.def)             Requested size: 421.42769pt x 53.75122pt.
+ [48
+
+]
+File: Imagens/questionarios.png Graphic file (type png)
+
+<use Imagens/questionarios.png>
+Package pdftex.def Info: Imagens/questionarios.png used on input line 52.
+(pdftex.def)             Requested size: 421.42769pt x 53.75122pt.
+File: Imagens/questionarios.png Graphic file (type png)
+ <use Imagens/questionarios.png>
+Package pdftex.def Info: Imagens/questionarios.png used on input line 59.
+(pdftex.def)             Requested size: 421.42769pt x 53.75122pt.
+File: Imagens/questionarios.png Graphic file (type png)
+
+<use Imagens/questionarios.png>
+Package pdftex.def Info: Imagens/questionarios.png used on input line 66.
+(pdftex.def)             Requested size: 421.42769pt x 53.75122pt.
+File: Imagens/questionarios.png Graphic file (type png)
+ <use Imagens/questionarios.png>
+Package pdftex.def Info: Imagens/questionarios.png used on input line 73.
+(pdftex.def)             Requested size: 421.42769pt x 53.75122pt.
+File: Imagens/questionarios.png Graphic file (type png)
+
+<use Imagens/questionarios.png>
+Package pdftex.def Info: Imagens/questionarios.png used on input line 80.
+(pdftex.def)             Requested size: 421.42769pt x 53.75122pt.
+) (projeto.bbl (projeto.brf)
+\tf@brf=\write6
+ [49]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 3.
 
 bibitemlist
-[40
+[50
 
-] [41])
+] [51]
+
+LaTeX Font Warning: Font shape `OMS/lmss/m/it' undefined
+(Font)              using `OMS/lmss/m/n' instead on input line 239.
+
+)
 No file projeto.ind.
 
 AED: lastpage setting LastPage
-[42]
+[52]
 \tf@lof=\write7
 \tf@lot=\write8
 \tf@toc=\write9
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 398.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 398.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 401.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 401.
  (projeto.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 398.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 398.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 401.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 401.
 Package rerunfilecheck Info: File `projeto.brf' has not changed.
-(rerunfilecheck)             Checksum: 761928FEE0633D2369E08BC659B1A305;2202.
+(rerunfilecheck)             Checksum: 9B1FC6A7DCE02C624698465C5FACFDC1;2860.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1898,26 +2094,27 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 398.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 401.
  ) 
 Here is how much of TeX's memory you used:
- 26488 strings out of 493698
- 455192 string characters out of 3144409
- 693312 words of memory out of 3000000
- 29001 multiletter control sequences out of 15000+200000
- 92211 words of font info for 145 fonts, out of 3000000 for 9000
+ 26777 strings out of 493698
+ 459829 string characters out of 3144409
+ 695309 words of memory out of 3000000
+ 29174 multiletter control sequences out of 15000+200000
+ 109968 words of font info for 189 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 60i,12n,54p,1312b,664s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,12n,54p,1404b,664s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.
 9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss8.pfb><C:/Program Files
 /MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/lm/lmsso12.pfb>
-Output written on projeto.pdf (43 pages, 10997866 bytes).
+ts/type1/public/lm/lmsso10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+lm/lmsso12.pfb>
+Output written on projeto.pdf (53 pages, 24327141 bytes).
 PDF statistics:
- 734 PDF objects out of 1000 (max. 8388607)
- 145 named destinations out of 1000 (max. 500000)
- 23479 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 959 PDF objects out of 1000 (max. 8388607)
+ 192 named destinations out of 1000 (max. 500000)
+ 30206 words of extra memory for PDF output out of 35830 (max. 10000000)
 

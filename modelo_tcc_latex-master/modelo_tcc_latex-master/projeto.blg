@@ -6,35 +6,51 @@ Warning--entry type for "ford" isn't style-file defined
 --line 21 of file references.bib
 Warning--entry type for "daydream" isn't style-file defined
 --line 31 of file references.bib
+Warning--entry type for "minitab" isn't style-file defined
+--line 39 of file references.bib
 Warning--entry type for "vrsickness" isn't style-file defined
---line 76 of file references.bib
+--line 90 of file references.bib
 Warning--entry type for "oculus" isn't style-file defined
---line 85 of file references.bib
-Warning--entry type for "hopkins" isn't style-file defined
---line 94 of file references.bib
-Warning--entry type for "designlab" isn't style-file defined
---line 103 of file references.bib
-Warning--entry type for "dimension" isn't style-file defined
+--line 99 of file references.bib
+Warning--entry type for "googleplay" isn't style-file defined
+--line 108 of file references.bib
+Warning--entry type for "oculushome" isn't style-file defined
+--line 116 of file references.bib
+Warning--entry type for "realiteer" isn't style-file defined
+--line 124 of file references.bib
+Warning--entry type for "realtrigger" isn't style-file defined
+--line 132 of file references.bib
+Warning--entry type for "xbox" isn't style-file defined
 --line 141 of file references.bib
-Warning--entry type for "android" isn't style-file defined
+Warning--entry type for "ps4" isn't style-file defined
 --line 149 of file references.bib
+Warning--entry type for "hopkins" isn't style-file defined
+--line 158 of file references.bib
+Warning--entry type for "designlab" isn't style-file defined
+--line 167 of file references.bib
+Warning--entry type for "dimension" isn't style-file defined
+--line 205 of file references.bib
+Warning--entry type for "android" isn't style-file defined
+--line 213 of file references.bib
 Warning--entry type for "otg" isn't style-file defined
---line 165 of file references.bib
+--line 229 of file references.bib
 Warning--entry type for "bluetooth" isn't style-file defined
---line 173 of file references.bib
+--line 237 of file references.bib
 Warning--entry type for "googledocumentacao" isn't style-file defined
---line 182 of file references.bib
+--line 246 of file references.bib
 Warning--entry type for "unitynumbers" isn't style-file defined
---line 190 of file references.bib
+--line 254 of file references.bib
 Warning--entry type for "googleunity" isn't style-file defined
---line 198 of file references.bib
+--line 262 of file references.bib
 Warning--entry type for "googlecardboard" isn't style-file defined
---line 207 of file references.bib
+--line 271 of file references.bib
 Warning--entry type for "riodejaneiro" isn't style-file defined
---line 215 of file references.bib
+--line 279 of file references.bib
+Warning--entry type for "motox" isn't style-file defined
+--line 351 of file references.bib
 +---------------------------------------------------------+
 | Estilo bibliográfico abntex2-alf.bst versão v-1.9.3           |
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://abntex2.googlecode.com                           |
 +---------------------------------------------------------+
-(There were 15 warnings)
+(There were 23 warnings)
