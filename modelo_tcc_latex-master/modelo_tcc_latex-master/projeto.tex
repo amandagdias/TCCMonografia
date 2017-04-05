@@ -48,8 +48,9 @@
 % ---
 % Pacotes de citações
 % ---
-\usepackage[brazilian,hyperpageref]{backref}	 % Paginas com as citações na bibl
-\usepackage[alf]{abntex2cite}	% Citações padrão ABNT
+%\usepackage[brazilian,hyperpageref]{backref}	 % Paginas com as citações na bibl
+\usepackage[alf, abnt-etal-list=0, abnt-repeated-author-omit=yes]{abntex2cite}	% Citações padrão ABNT
+
 % --- 
 % CONFIGURAÇÕES DE PACOTES
 % --- 
@@ -58,30 +59,30 @@
 % Configurações do pacote backref
 \renewcommand{\familydefault}{\sfdefault}
 % Usado sem a opção hyperpageref de backref
-\renewcommand{\backrefpagesname}{Citado na(s) página(s):~}
+%\renewcommand{\backrefpagesname}{Citado na(s) página(s):~}
 % Texto padrão antes do número das páginas
-\renewcommand{\backref}{}
+%\renewcommand{\backref}{}
 % Define os textos da citação
-\renewcommand*{\backrefalt}[4]{
-	\ifcase #1 %
-		Nenhuma citação no texto.%
-	\or
-		Citado na página #2.%
-	\else
-		Citado #1 vezes nas páginas #2.%
-	\fi}%
+%\renewcommand*{\backrefalt}[4]{
+%	\ifcase #1 
+%		Nenhuma citação no texto.
+%	\or
+%		Citado na página #2.
+%	\else
+%		Citado #1 vezes nas páginas #2.
+%	\fi}
 % ---
 
 % ---
 % Informações de dados para CAPA e FOLHA DE ROSTO
 % ---
-\titulo{EXPLORANDO CONTROLES DE INTERAÇÃO EM APLICAÇÃO DE RV PARA DISPOSITIVOS MÓVEIS}
+\titulo{AVALIANDO CONTROLES DE INTERAÇÃO EM APLICAÇÃO DE RV PARA \textit{SMARTPHONES}}
 \autor{Amanda Gonçalves Dias}
 \local{Bauru}
 \data{2016}
 \orientador{Prof. Dr. Wilson Yonezawa}
 \instituicao{%
-  Universidade Estadual Paulista ``Júlio de Mesquita Filho''
+  Universidade Estadual Paulista
   \par
   Faculdade de Ciências
   \par
@@ -180,33 +181,29 @@
 % \end{fichacatalografica}
 
 \begin{fichacatalografica}
-	\sffamily
+	\ttfamily
 	\vspace*{\fill}					% Posição vertical
-	\begin{center}					% Minipage Centralizado
-	\fbox{\begin{minipage}[c][8cm]{15.5cm}		% Largura
-	\small
-	\imprimirautor
+	\hspace{1.5cm}
+	\begin{centering}	% Minipage Centralizado
+	\fbox{\begin{minipage}[c][7.5cm]{12.5cm}		% Largura
+	\footnotesize
+	\vspace{0.3cm}
+	\hspace{2.0cm} Dias, Amanda Gonçalves.
 	%Sobrenome, Nome do autor
 	
-	\hspace{0.5cm} \imprimirtitulo  / \imprimirautor. --
-	\imprimirlocal, \imprimirdata-
+	\hspace{2.0cm} \parbox[t]{\textwidth}{\hspace{0.5cm} Avaliando controles de interação em aplicação de RV \\ para \textit{smartphones}  / \imprimirautor, \imprimirdata} 	\\	
 	
-	\hspace{0.5cm} \pageref{LastPage} p. : il. (algumas color.) ; 30 cm.\\
+	\hspace{2.0cm} \parbox[t]{\textwidth}{\hspace{0.5cm} \pageref{LastPage} f. : il.} \\
 	
-	\hspace{0.5cm} \imprimirorientadorRotulo~\imprimirorientador\\
+	\hspace{2.0cm} \parbox[t]{\textwidth}{\hspace{0.5cm} \imprimirorientadorRotulo~\imprimirorientador} \\
 	
-	\hspace{0.5cm}
-	\parbox[t]{\textwidth}{\imprimirtipotrabalho~--~\imprimirinstituicao,
-	\imprimirdata.}\\
+	\hspace{2.0cm} \parbox[t]{\textwidth}{\hspace{0.5cm} Monografia (Graduação)~--~Universidade Estadual \\ Paulista. Faculdade de Ciências, Bauru, \imprimirdata \\}  
+	\\	
 	
-	\hspace{0.5cm}
-		1. Tags
-		2. Para
-		3. A
-		4. Ficha
-		5. Catalográfica	
+	
+	\hspace{2.0cm} \parbox[t]{\textwidth}{\hspace{0.5cm} 1. Realidade virtual. 2. Interação humano-computador. \\ 3. Análise de controles físicos. I. Universidade \\ Estadual Paulista. Faculdade de Ciências. II. Título.}	
 	\end{minipage}}
-	\end{center}
+	\end{centering}
 \end{fichacatalografica}
 % ---
 
@@ -241,9 +238,9 @@
         
    \center Banca Examinadora
 
-   \assinatura{\textbf{\imprimirorientador} \\ Orientador} 
-   \assinatura{\textbf{Profa. Dra. Simone das Graças Domingues Prado} \\ Convidado 1}
-   \assinatura{\textbf{Prof. Dr. Humberto Ferasoli Filho} \\ Convidado 2}
+   \assinatura{\textbf{\imprimirorientador} \\ Departamento de computação - Faculdade de Ciências - UNESP - Bauru} 
+   \assinatura{\textbf{Profa. Dra. Simone das Graças Domingues Prado} \\ Departamento de computação - Faculdade de Ciências - UNESP - Bauru}
+   \assinatura{\textbf{Prof. Dr. Humberto Ferasoli Filho} \\ Departamento de computação - Faculdade de Ciências - UNESP - Bauru}
    %\assinatura{\textbf{Professor} \\ Convidado 3}
    %\assinatura{\textbf{Professor} \\ Convidado 4}
       
@@ -296,8 +293,8 @@ Agradeço à minha família por todo apoio e por terem me motivado a sempre busc
 \begin{resumo}
 
 Com a introdução da Realidade Virtual (RV), questões sobre a interação com o ambiente virtual entraram em evidência. Dispositivos utilizados diariamente com eficiência e eficácia em aplicações \textit{desktop} comuns, não apresentam os mesmos benefícios para aplicações em RV. 
-
-Este trabalho teve como objetivo desenvolver uma aplicação em RV onde controles externos foram usados como dispositivos de interação. Análises realizadas sob os controles avaliaram a capacidade de interação destes com base em sua funcionalidade, usabilidade e experiência.
+Este trabalho teve como objetivo avaliar controles de interação em uma aplicação de RV desenvolvida para \textit{smartphones} onde a escolha dos controles foi feita principalmente com base em seu meio de conexão, sendo estudados controles que se conectam ao \textit{smartphone} através da conexão Bluetooth, via cabo e o próprio toque na tela. 
+As avaliações realizadas sob os controles avaliaram a capacidade de interação destes com base em sua funcionalidade, usabilidade e experiência. Ademais, foram aplicados os questionários \textit{"The After-Scenario Questionnaire (ASQ)"} e o \textit{"The Post-Study System Usability Questionnaire (PSSUQ)"} a fim de acessar as características de usabilidade e experiência dos usuários. 
 
 \textbf{Palavras-chave:} Realidade Virtual, Interação Humano-Computador, Análise de controles físicos.
 \end{resumo}
@@ -307,8 +304,8 @@ Este trabalho teve como objetivo desenvolver uma aplicação em RV onde controle
  \begin{otherlanguage*}{english}
  
 The Virtual Reality (VR) introduction brought into evidence concerns about the interaction with the virtual environment. Devices that are daily used with efficiency and efficacy within usual desktop applications, do not bring the same benefits within VR aplications.
-
-This paper aimed to develop an VR application where external controllers were used as input devices. Reviews made on the controllers evaluated their capacity of interaction according to their functionality, usability and experience.  
+This paper aimed to evaluate external controllers using a VR application developed for smartphones where the choice of the controllers were made mainly by their communication mode, that were Bluetooth, cable and touch. 
+The evaluation performed on the controllers measured their capacity of interaction according to their functionality, usability and experience. Futhermore, users responded to two questionnaires: The After-Scenario Questionnaire (ASQ) and The Post-Study System Usability Questionnaire (PSSUQ) in order to access the user's usability and experience with the controller.
 
 \textbf{Keywords:} Virtual Reality, Human-Computer Interaction, Physical controllers evaluation.
  
@@ -362,9 +359,7 @@ This paper aimed to develop an VR application where external controllers were us
 \input{analise.tex}
 \input{conclusao.tex}
 
-\apendices
-\input{apendice1.tex}
-\input{apendice2.tex}
+
 
 % ---
 % Capitulo com exemplos de comandos inseridos de arquivo externo 
@@ -377,12 +372,17 @@ This paper aimed to develop an VR application where external controllers were us
 \postextual
 % ----------------------------------------------------------
 
+
 % ----------------------------------------------------------
 % Referências bibliográficas
 % ----------------------------------------------------------
 \pagestyle{empty}
-\bibliography{references} % o arquivo de bibliografia deve ser importando nessa linha sem o .bib
 
+\bibliography{references} % o arquivo de bibliografia deve ser importando nessa linha sem o .bib
+\begin{apendicesenv}
+	\input{apendice1.tex}
+	\input{apendice2.tex}
+\end{apendicesenv}
 % ----------------------------------------------------------
 % Glossário
 % ----------------------------------------------------------

@@ -36,8 +36,8 @@ Dispon{\'\i}vel em:
 
 \bibitem[Brown et al. 2010]{brown}
 \abntrefinfo{Brown et al.}{BROWN et al.}{2010}
-{BROWN, M.~A. et al. Beyond the gamepad: Hci and game controller design and
-  evaluation.
+{BROWN, M.~A.; KEHOE, A.; KIRAKOWSKI, J.; PITT, I. Beyond the gamepad: Hci and
+  game controller design and evaluation.
 In:  \underline{\ \ \ \ \ \ \ \ }. \emph{Evaluating User Experience in Games}.
   France: Springer, 2010. p. 197--219.}
 
@@ -47,10 +47,10 @@ In:  \underline{\ \ \ \ \ \ \ \ }. \emph{Evaluating User Experience in Games}.
   brasileira.
 Minas Gerais, 2002.}
 
-\bibitem[DEARBORN e MICH 2013]{ford}
-\abntrefinfo{DEARBORN e MICH}{DEARBORN; MICH}{2013}
-{DEARBORN; MICH. \emph{NEW VIRTUAL LAB IMPROVES FORD GLOBAL VEHICLE QUALITY}:
-  Engineers and designers inspect 135,000 details in 2013. 2013.
+\bibitem[Dearborn e Mich 2013]{ford}
+\abntrefinfo{Dearborn e Mich}{DEARBORN; MICH}{2013}
+{DEARBORN; MICH. \emph{New Virtual Lab Improves Ford Global Vehicle Quality}:
+  Engineers and designers inspect 135000 details in 2013. 2013.
 Dispon{\'\i}vel em:
   \url{https://media.ford.com/content/fordmedia-mobile/fna/us/en/news/2013/12/12/new-virtual-lab-improves-ford-global-vehicle-quality--engineers-.html}.
   Acesso em: 06 dez. 2016.}
@@ -64,8 +64,8 @@ Dispon{\'\i}vel em:
 
 \bibitem[Dix et al. 1998]{dix}
 \abntrefinfo{Dix et al.}{DIX et al.}{1998}
-{DIX, A. et al. \emph{Human-Computer Interaction}. 2. ed. Upper Saddle River,
-  NJ, USA: Prentice-Hall, Inc., 1998.}
+{DIX, A.; FINLAY, J.; ABOWD, G.; BEALE, A. \emph{Human-Computer Interaction}.
+  2. ed. Upper Saddle River, NJ, USA: Prentice-Hall, Inc., 1998.}
 
 \bibitem[Forsyth 2014]{tom}
 \abntrefinfo{Forsyth}{FORSYTH}{2014}
@@ -82,39 +82,40 @@ Dispon{\'\i}vel em:
 
 \bibitem[Google 2016]{daydream}
 \abntrefinfo{Google}{GOOGLE}{2016a}
-{GOOGLE. \emph{Daydream}. 2016.
+{\underline{\ \ \ \ \ \ \ \ }. \emph{Daydream}. 2016.
 Dispon{\'\i}vel em: \url{https://vr.google.com/daydream/}. Acesso em: 06 dez.
   2016.}
 
 \bibitem[Google 2016]{googledocumentacao}
 \abntrefinfo{Google}{GOOGLE}{2016b}
-{GOOGLE. \emph{Documentation}: Guides. 2016.
+{\underline{\ \ \ \ \ \ \ \ }. \emph{Documentation}: Guides. 2016.
 Dispon{\'\i}vel em: \url{https://developers.google.com/vr/}. Acesso em: 06 dez.
   2016.}
 
 \bibitem[Google 2016]{googleunity}
 \abntrefinfo{Google}{GOOGLE}{2016c}
-{GOOGLE. \emph{Documentation}: Google vr sdk for unity. 2016.
+{\underline{\ \ \ \ \ \ \ \ }. \emph{Documentation}: Google vr sdk for unity.
+  2016.
 Dispon{\'\i}vel em: \url{https://developers.google.com/vr/unity/}. Acesso em:
   06 dez. 2016.}
 
 \bibitem[Google 2016]{vrsickness}
 \abntrefinfo{Google}{GOOGLE}{2016d}
-{GOOGLE. \emph{Physiological considerations}. 2016.
+{\underline{\ \ \ \ \ \ \ \ }. \emph{Physiological considerations}. 2016.
 Dispon{\'\i}vel em:
   \url{https://www.google.com/design/spec-vr/designing-for-google-cardboard/physiological-considerations.html}.
   Acesso em: 06 dez. 2016.}
 
 \bibitem[Google 2016]{googlecardboard}
 \abntrefinfo{Google}{GOOGLE}{2016e}
-{GOOGLE. \emph{Tenha um visualizador}. 2016.
+{\underline{\ \ \ \ \ \ \ \ }. \emph{Tenha um visualizador}. 2016.
 Dispon{\'\i}vel em:
   \url{https://vr.google.com/intl/pt-BR\_pt/cardboard/get-cardboard/}. Acesso
   em: 06 dez. 2016.}
 
 \bibitem[Google 2017]{googleplay}
 \abntrefinfo{Google}{GOOGLE}{2017}
-{GOOGLE. \emph{Google Play}. 2017.
+{\underline{\ \ \ \ \ \ \ \ }. \emph{Google Play}. 2017.
 Dispon{\'\i}vel em: \url{https://play.google.com/store}. Acesso em: 16 jan.
   2017.}
 
@@ -170,8 +171,8 @@ Dispon{\'\i}vel em:
 
 \bibitem[Milgram et al. 1994]{milgram}
 \abntrefinfo{Milgram et al.}{MILGRAM et al.}{1994}
-{MILGRAM, P. et al. Augmented reality: A class of displays on the
-  reality-virtuality continuum.
+{MILGRAM, P.; TAKEMURA, H.; UTSUMI, A.; KISHINO, F. Augmented reality: A class
+  of displays on the reality-virtuality continuum.
 \emph{Telemanipulator and Telepresence Technologies}, Japão, v.~2351, 1994.}
 
 \bibitem[Minitab 2017]{minitab}
@@ -190,7 +191,7 @@ Dispon{\'\i}vel em:
 
 \bibitem[Oculus 2017]{oculushome}
 \abntrefinfo{Oculus}{OCULUS}{2017}
-{OCULUS. \emph{Rift - Overview}. 2017.
+{\underline{\ \ \ \ \ \ \ \ }. \emph{Rift - Overview}. 2017.
 Dispon{\'\i}vel em: \url{https://www3.oculus.com/en-us/rift/}. Acesso em: 16
   jan. 2017.}
 
@@ -209,8 +210,8 @@ Dispon{\'\i}vel em: \url{http://www.realiteer.com/portfolio/}. Acesso em: 16
 
 \bibitem[Realiteer 2017]{realiteer}
 \abntrefinfo{Realiteer}{REALITEER}{2017b}
-{REALITEER. \emph{RealTrigger: The most affordable Virtual Reality system}.
-  2017.
+{\underline{\ \ \ \ \ \ \ \ }. \emph{RealTrigger: The most affordable Virtual
+  Reality system}. 2017.
 Dispon{\'\i}vel em:
   \url{https://www.kickstarter.com/projects/realiteer/realtrigger-the-most-affordable-virtual-reality-sy}.
   Acesso em: 16 jan. 2017.}
@@ -223,7 +224,8 @@ Dispon{\'\i}vel em:
 
 \bibitem[Siscoutto et al. 2006]{siscoutto}
 \abntrefinfo{Siscoutto et al.}{SISCOUTTO et al.}{2006}
-{SISCOUTTO, R.~A. et al. Estereoscopia.
+{SISCOUTTO, R.~A.; SZENBERG, F.; TORI, R.; RAPOSO, A.~B.; CELES, W.; GATTASS,
+  M. Estereoscopia.
 In:  \underline{\ \ \ \ \ \ \ \ }. \emph{Fundamentos e Tecnologia de Realidade
   Virtual e Aumentada}. 7. ed. Belém: Editora SBC - Sociedade Brasileira de
   Computação, 2006. p. 221--245.}

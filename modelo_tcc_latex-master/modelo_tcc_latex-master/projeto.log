@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.4.22)  19 JAN 2017 22:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.4.22)  14 FEB 2017 15:33
 entering extended mode
 **projeto.tex
 (projeto.tex
@@ -1339,9 +1339,6 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
 \c@lips@count=\count217
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\backref.sty"
-Package: backref 2012/07/25 v1.38 Bibliographical back referencing
-)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\abntex2\abntex2cite.sty"
 Package: abntex2cite 2015/01/26 v1.9.3 abnTeX2
 
@@ -1359,7 +1356,7 @@ LaTeX Info: Redefining \newblock on input line 591.
 LaTeX Info: Redefining \cite on input line 618.
 \ABCItoken=\toks50
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 117.
+Package hyperref Info: Option `colorlinks' set `true' on input line 118.
 \projeto@idxfile=\write5
 
 Writing index file projeto.idx 
@@ -1419,27 +1416,27 @@ LaTeX Warning: Label `f.questionarios' multiply defined.
 LaTeX Warning: Label `f.questionarios' multiply defined.
 
 )
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 140.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 141.
 
  ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 \AtBeginShipoutBox=\box51
-Package hyperref Info: Link coloring ON on input line 140.
+Package hyperref Info: Link coloring ON on input line 141.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1451,13 +1448,13 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 140.
-LaTeX Info: Redefining \ref on input line 140.
-LaTeX Info: Redefining \pageref on input line 140.
-LaTeX Info: Redefining \nameref on input line 140.
-LaTeX Info: Redefining \degres on input line 140.
-LaTeX Info: Redefining \dots on input line 140.
-LaTeX Info: Redefining \up on input line 140.
+LaTeX Info: Redefining \nameref on input line 141.
+LaTeX Info: Redefining \ref on input line 141.
+LaTeX Info: Redefining \pageref on input line 141.
+LaTeX Info: Redefining \nameref on input line 141.
+LaTeX Info: Redefining \degres on input line 141.
+LaTeX Info: Redefining \dots on input line 141.
+LaTeX Info: Redefining \up on input line 141.
 \myptabbox=\box52
 \myptabboxwidth=\skip217
 Package lastpage Info: Please have a look at the pageslts package at
@@ -1466,7 +1463,7 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             or
 (lastpage)             http://www.ctan.org/tex-archive/ 
 (lastpage)             install/macros/latex/contrib/pageslts.tds.zip
-(lastpage)             ! on input line 140.
+(lastpage)             ! on input line 141.
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count221
@@ -1481,7 +1478,7 @@ Package lastpage Info: Please have a look at the pageslts package at
 \makeMPintoPDFobject=\count226
 \everyMPtoPDFconversion=\toks52
 )
-LaTeX Info: Redefining \microtypecontext on input line 140.
+LaTeX Info: Redefining \microtypecontext on input line 141.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1503,14 +1500,17 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <14.4> not available
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 158.
+
  [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
+Underfull \hbox (badness 10000) in paragraph at lines 167--167
 
  []
 
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 166.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 167.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1519,31 +1519,31 @@ File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 166.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 167.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 166
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 167
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 166
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 167
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 166.
+(Font)              <12> on input line 167.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 166.
+(Font)              <8> on input line 167.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 166.
-LaTeX Font Info:    Try loading font information for U+msa on input line 166.
+(Font)              <6> on input line 167.
+LaTeX Font Info:    Try loading font information for U+msa on input line 167.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1551,7 +1551,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msa.cfg"
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 166.
+LaTeX Font Info:    Try loading font information for U+msb on input line 167.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1562,47 +1562,96 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.166 
+l.167 
        [1
 
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 208--208
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 184.
 
- []
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd"
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `lmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 208--208
-
- []
-
-
-Overfull \hbox (16.6597pt too wide) in paragraph at lines 208--208
+Overfull \hbox (62.15549pt too wide) in paragraph at lines 205--205
 []  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 208--208
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
 
  []
 
+
+Overfull \hbox (62.15549pt too wide) in paragraph at lines 205--205
+[]  [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
+
+ []
+
+
+Overfull \hbox (62.15549pt too wide) in paragraph at lines 205--205
+[]  [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
+
+ []
+
+
+Overfull \hbox (62.15549pt too wide) in paragraph at lines 205--205
+[]  [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
+
+ []
+
+
+Overfull \hbox (62.15549pt too wide) in paragraph at lines 205--205
+[]  [] 
+ []
+
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 208.
+(Font)              <10> on input line 205.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 208.
+(Font)              <7> on input line 205.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 208.
+(Font)              <5> on input line 205.
+
+Overfull \hbox (8.12715pt too wide) in paragraph at lines 186--209
+[]   []   
+ []
+
 [2
 
-] [3
+]
+LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <17.28> not available
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 228.
+
+ [3
 
 ] [4
 
 
 ]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 285.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 282.
  [5
 
 ] [6
@@ -1629,7 +1678,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 ] (projeto.toc [10
 
 ]) [11] (introducao.tex
-<Imagens/daydream.jpg, id=222, 2730.2pt x 1729.46124pt>
+<Imagens/daydream.jpg, id=225, 2730.2pt x 1729.46124pt>
 File: Imagens/daydream.jpg Graphic file (type jpg)
 
 <use Imagens/daydream.jpg>
@@ -1639,41 +1688,41 @@ Package pdftex.def Info: Imagens/daydream.jpg used on input line 19.
 
 
 ] [13 <./Imagens/daydream.jpg>]
-<Imagens/cardboard.png, id=247, 545.03625pt x 133.49875pt>
+<Imagens/cardboard.png, id=250, 545.03625pt x 133.49875pt>
 File: Imagens/cardboard.png Graphic file (type png)
 
 <use Imagens/cardboard.png>
-Package pdftex.def Info: Imagens/cardboard.png used on input line 40.
+Package pdftex.def Info: Imagens/cardboard.png used on input line 38.
 (pdftex.def)             Requested size: 381.52278pt x 93.44847pt.
 
-<Imagens/botaocardboard1.jpg, id=249, 2348.775pt x 2299.59125pt>
+<Imagens/botaocardboard1.jpg, id=252, 2348.775pt x 2299.59125pt>
 File: Imagens/botaocardboard1.jpg Graphic file (type jpg)
 
 <use Imagens/botaocardboard1.jpg>
-Package pdftex.def Info: Imagens/botaocardboard1.jpg used on input line 50.
+Package pdftex.def Info: Imagens/botaocardboard1.jpg used on input line 48.
 (pdftex.def)             Requested size: 145.29282pt x 142.26378pt.
 
-<Imagens/botaocardboard2.jpg, id=250, 2347.77126pt x 2538.48375pt>
+<Imagens/botaocardboard2.jpg, id=253, 2347.77126pt x 2538.48375pt>
 File: Imagens/botaocardboard2.jpg Graphic file (type jpg)
 
 <use Imagens/botaocardboard2.jpg>
-Package pdftex.def Info: Imagens/botaocardboard2.jpg used on input line 58.
+Package pdftex.def Info: Imagens/botaocardboard2.jpg used on input line 56.
 (pdftex.def)             Requested size: 131.54594pt x 142.26378pt.
 
-Overfull \hbox (2.61107pt too wide) in paragraph at lines 47--63
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 45--61
 []$[]$ $[]$ 
  []
 
 [14 <./Imagens/cardboard.png> <./Imagens/botaocardboard1.jpg> <./Imagens/botaoc
 ardboard2.jpg>] [15]) (fundamentacaoteorica.tex [16]
-<Imagens/milgram.png, id=272, 560.0925pt x 128.73094pt>
+<Imagens/milgram.png, id=275, 560.0925pt x 128.73094pt>
 File: Imagens/milgram.png Graphic file (type png)
 
 <use Imagens/milgram.png>
 Package pdftex.def Info: Imagens/milgram.png used on input line 15.
 (pdftex.def)             Requested size: 392.06207pt x 90.11102pt.
 
-<Imagens/estereoscopia.png, id=280, 566.86781pt x 353.82187pt>
+<Imagens/estereoscopia.png, id=283, 566.86781pt x 353.82187pt>
 File: Imagens/estereoscopia.png Graphic file (type png)
 
 <use Imagens/estereoscopia.png>
@@ -1682,7 +1731,7 @@ Package pdftex.def Info: Imagens/estereoscopia.png used on input line 25.
  [17
 
  <./Imagens/milgram.png>]
-<Imagens/grausliberdade.png, id=291, 469.00218pt x 209.28188pt>
+<Imagens/grausliberdade.png, id=294, 469.00218pt x 209.28188pt>
 File: Imagens/grausliberdade.png Graphic file (type png)
 
 <use Imagens/grausliberdade.png>
@@ -1694,21 +1743,21 @@ Overfull \hbox (14.00104pt too wide) in paragraph at lines 35--37
  []
 
 [18 <./Imagens/estereoscopia.png> <./Imagens/grausliberdade.png>] [19]
-<Imagens/designlab.png, id=321, 786.68906pt x 435.87843pt>
+<Imagens/designlab.png, id=324, 786.68906pt x 435.87843pt>
 File: Imagens/designlab.png Graphic file (type png)
 
 <use Imagens/designlab.png>
 Package pdftex.def Info: Imagens/designlab.png used on input line 64.
 (pdftex.def)             Requested size: 393.34357pt x 217.93867pt.
  [20 <./Imagens/designlab.png>]
-<Imagens/makeitbeautiful.png, id=337, 1927.2pt x 1084.05pt>
+<Imagens/makeitbeautiful.png, id=340, 1927.2pt x 1084.05pt>
 File: Imagens/makeitbeautiful.png Graphic file (type png)
 
 <use Imagens/makeitbeautiful.png>
 Package pdftex.def Info: Imagens/makeitbeautiful.png used on input line 82.
 (pdftex.def)             Requested size: 385.43318pt x 216.80615pt.
  [21 <./Imagens/makeitbeautiful.png>]
-<Imagens/qwert.jpg, id=352, 3917.63625pt x 1484.54625pt>
+<Imagens/qwert.jpg, id=353, 3917.63625pt x 1484.54625pt>
 File: Imagens/qwert.jpg Graphic file (type jpg)
 
 <use Imagens/qwert.jpg>
@@ -1723,14 +1772,14 @@ Package pdftex.def Info: Imagens/metodologia.png used on input line 12.
 (pdftex.def)             Requested size: 339.36555pt x 465.83719pt.
  [25
 
- <./Imagens/metodologia.png>] [26]
-<Imagens/otg.jpg, id=402, 2653.915pt x 2247.39626pt>
+ <./Imagens/metodologia.png>]
+<Imagens/otg.jpg, id=396, 2653.915pt x 2247.39626pt>
 File: Imagens/otg.jpg Graphic file (type jpg)
  <use Imagens/otg.jpg>
 Package pdftex.def Info: Imagens/otg.jpg used on input line 47.
 (pdftex.def)             Requested size: 134.36383pt x 113.81102pt.
 
-<Imagens/adaptador.jpg, id=403, 3698.81876pt x 2347.77126pt>
+<Imagens/adaptador.jpg, id=397, 3698.81876pt x 2347.77126pt>
 File: Imagens/adaptador.jpg Graphic file (type jpg)
 
 <use Imagens/adaptador.jpg>
@@ -1741,16 +1790,17 @@ Overfull \hbox (2.61107pt too wide) in paragraph at lines 44--60
 []$[]$ $[]$ 
  []
 
+[26]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 68.
-<Imagens/wiiremote.jpg, id=408, 2348.775pt x 3638.59375pt>
+ <Imagens/wiiremote.jpg, id=407, 2348.775pt x 3638.59375pt>
 File: Imagens/wiiremote.jpg Graphic file (type jpg)
 
 <use Imagens/wiiremote.jpg>
 Package pdftex.def Info: Imagens/wiiremote.jpg used on input line 80.
 (pdftex.def)             Requested size: 159.2493pt x 246.67712pt.
 
-<Imagens/controlevrbox.jpg, id=409, 3410.7425pt x 1673.25125pt>
+<Imagens/controlevrbox.jpg, id=408, 3410.7425pt x 1673.25125pt>
 File: Imagens/controlevrbox.jpg Graphic file (type jpg)
 
 <use Imagens/controlevrbox.jpg>
@@ -1763,21 +1813,21 @@ Overfull \hbox (2.61107pt too wide) in paragraph at lines 77--93
 
 [27 <./Imagens/otg.jpg> <./Imagens/adaptador.jpg>] [28 <./Imagens/wiiremote.jpg
 > <./Imagens/controlevrbox.jpg>]
-<Imagens/unity.png, id=425, 1027.58907pt x 493.0922pt>
+<Imagens/unity.png, id=424, 1027.58907pt x 493.0922pt>
 File: Imagens/unity.png Graphic file (type png)
  <use Imagens/unity.png>
 Package pdftex.def Info: Imagens/unity.png used on input line 116.
 (pdftex.def)             Requested size: 355.773pt x 170.71652pt.
 
 [29 <./Imagens/unity.png>]
-<Imagens/googlecardboard.png, id=437, 286.82156pt x 173.89969pt>
+<Imagens/googlecardboard.png, id=436, 286.82156pt x 173.89969pt>
 File: Imagens/googlecardboard.png Graphic file (type png)
 
 <use Imagens/googlecardboard.png>
 Package pdftex.def Info: Imagens/googlecardboard.png used on input line 138.
 (pdftex.def)             Requested size: 187.71411pt x 113.81102pt.
 
-<Imagens/vrbox.jpg, id=442, 2661.945pt x 1695.33376pt>
+<Imagens/vrbox.jpg, id=441, 2661.945pt x 1695.33376pt>
 File: Imagens/vrbox.jpg Graphic file (type jpg)
  <use Imagens/vrbox.jpg>
 Package pdftex.def Info: Imagens/vrbox.jpg used on input line 146.
@@ -1787,7 +1837,7 @@ Overfull \hbox (2.61107pt too wide) in paragraph at lines 135--151
 []$[]$ $[]$ 
  []
 
-<Imagens/modelos.png, id=446, 944.7797pt x 310.91156pt>
+<Imagens/modelos.png, id=445, 944.7797pt x 310.91156pt>
 File: Imagens/modelos.png Graphic file (type png)
 
 <use Imagens/modelos.png>
@@ -1795,14 +1845,14 @@ Package pdftex.def Info: Imagens/modelos.png used on input line 161.
 (pdftex.def)             Requested size: 432.29735pt x 142.26378pt.
  [30 <./Imagens/googlecardboard.png> <./Imagens/vrbox.jpg> <./Imagens/modelos.p
 ng>]
-<Imagens/extensor.jpg, id=460, 4175.6pt x 2348.775pt>
+<Imagens/extensor.jpg, id=459, 4175.6pt x 2348.775pt>
 File: Imagens/extensor.jpg Graphic file (type jpg)
 
 <use Imagens/extensor.jpg>
 Package pdftex.def Info: Imagens/extensor.jpg used on input line 173.
 (pdftex.def)             Requested size: 252.88263pt x 142.26378pt.
  [31 <./Imagens/extensor.jpg>] [32]
-<Imagens/posicoes.jpg, id=479, 573.14125pt x 457.71pt>
+<Imagens/posicoes.jpg, id=478, 573.14125pt x 457.71pt>
 File: Imagens/posicoes.jpg Graphic file (type jpg)
 
 <use Imagens/posicoes.jpg>
@@ -1904,7 +1954,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 268--268
  []
 
 ) (analise.tex [33 <./Imagens/posicoes.jpg>] [34]
-<Imagens/controles.jpg, id=492, 3784.1375pt x 2121.9275pt>
+<Imagens/controles.jpg, id=491, 3784.1375pt x 2121.9275pt>
 File: Imagens/controles.jpg Graphic file (type jpg)
 
 <use Imagens/controles.jpg>
@@ -1913,14 +1963,14 @@ Package pdftex.def Info: Imagens/controles.jpg used on input line 9.
  [35
 
  <./Imagens/controles.jpg>] [36] [37]
-<Imagens/anovaasq.png, id=529, 456.95718pt x 246.1697pt>
+<Imagens/anovaasq.png, id=528, 456.95718pt x 246.1697pt>
 File: Imagens/anovaasq.png Graphic file (type png)
 
 <use Imagens/anovaasq.png>
 Package pdftex.def Info: Imagens/anovaasq.png used on input line 68.
 (pdftex.def)             Requested size: 319.86784pt x 172.3176pt.
  [38 <./Imagens/anovaasq.png>]
-<Imagens/anovapssuq.png, id=538, 457.71pt x 245.41687pt>
+<Imagens/anovapssuq.png, id=537, 457.71pt x 245.41687pt>
 File: Imagens/anovapssuq.png Graphic file (type png)
 
 <use Imagens/anovapssuq.png>
@@ -1929,14 +1979,14 @@ Package pdftex.def Info: Imagens/anovapssuq.png used on input line 98.
  [39 <./Imagens/anovapssuq.png>]) (conclusao.tex
 [40] [41
 
-] <Imagens/xbox.png, id=559, 299.61937pt x 235.63031pt>
+] <Imagens/xbox.png, id=558, 299.61937pt x 235.63031pt>
 File: Imagens/xbox.png Graphic file (type png)
 
 <use Imagens/xbox.png>
 Package pdftex.def Info: Imagens/xbox.png used on input line 23.
 (pdftex.def)             Requested size: 180.89767pt x 142.26378pt.
 
-<Imagens/dualshock4.jpg, id=564, 1044.90375pt x 789.95125pt>
+<Imagens/dualshock4.jpg, id=563, 1044.90375pt x 789.95125pt>
 File: Imagens/dualshock4.jpg Graphic file (type jpg)
 
 <use Imagens/dualshock4.jpg>
@@ -1948,24 +1998,37 @@ Overfull \hbox (2.61107pt too wide) in paragraph at lines 20--36
  []
 
 [42 <./Imagens/xbox.png> <./Imagens/dualshock4.jpg>]
-<Imagens/oculustouch.png, id=582, 797.98125pt x 379.4175pt>
+<Imagens/oculustouch.png, id=580, 797.98125pt x 379.4175pt>
 File: Imagens/oculustouch.png Graphic file (type png)
 
 <use Imagens/oculustouch.png>
 Package pdftex.def Info: Imagens/oculustouch.png used on input line 46.
 (pdftex.def)             Requested size: 299.2057pt x 142.26378pt.
 
-<Imagens/realtrigger.png, id=590, 634.62094pt x 369.63094pt>
+<Imagens/realtrigger.png, id=588, 634.62094pt x 369.63094pt>
 File: Imagens/realtrigger.png Graphic file (type png)
 
 <use Imagens/realtrigger.png>
 Package pdftex.def Info: Imagens/realtrigger.png used on input line 56.
 (pdftex.def)             Requested size: 341.95425pt x 199.16928pt.
- [43 <./Imagens/oculustouch.png>]) (apendice1.tex
-[44 <./Imagens/realtrigger.png>] [45
+ [43 <./Imagens/oculustouch.png>]) (projeto.bbl
+[44 <./Imagens/realtrigger.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 3.
+
+bibitemlist
+[45
+
+] [46]
+
+LaTeX Font Warning: Font shape `OMS/lmss/m/it' undefined
+(Font)              using `OMS/lmss/m/n' instead on input line 236.
+
+) (apendice1.tex [47] [48
 
 ]
-<Imagens/questionarios.png, id=613, 702.37407pt x 89.58469pt>
+<Imagens/questionarios.png, id=668, 702.37407pt x 89.58469pt>
 File: Imagens/questionarios.png Graphic file (type png)
 
 <use Imagens/questionarios.png>
@@ -1993,7 +2056,7 @@ File: Imagens/questionarios.png Graphic file (type png)
  <use Imagens/questionarios.png>
 Package pdftex.def Info: Imagens/questionarios.png used on input line 79.
 (pdftex.def)             Requested size: 421.42769pt x 53.75122pt.
- [46 <./Imagens/questionarios.png>]
+ [49 <./Imagens/questionarios.png>]
 File: Imagens/questionarios.png Graphic file (type png)
  <use Imagens/questionarios.png>
 Package pdftex.def Info: Imagens/questionarios.png used on input line 90.
@@ -2003,7 +2066,7 @@ File: Imagens/questionarios.png Graphic file (type png)
 <use Imagens/questionarios.png>
 Package pdftex.def Info: Imagens/questionarios.png used on input line 98.
 (pdftex.def)             Requested size: 421.42769pt x 53.75122pt.
-) (apendice2.tex [47]
+) (apendice2.tex [50]
 File: Imagens/questionarios.png Graphic file (type png)
 
 <use Imagens/questionarios.png>
@@ -2031,7 +2094,7 @@ File: Imagens/questionarios.png Graphic file (type png)
  <use Imagens/questionarios.png>
 Package pdftex.def Info: Imagens/questionarios.png used on input line 44.
 (pdftex.def)             Requested size: 421.42769pt x 53.75122pt.
- [48
+ [51
 
 ]
 File: Imagens/questionarios.png Graphic file (type png)
@@ -2057,36 +2120,19 @@ File: Imagens/questionarios.png Graphic file (type png)
 <use Imagens/questionarios.png>
 Package pdftex.def Info: Imagens/questionarios.png used on input line 80.
 (pdftex.def)             Requested size: 421.42769pt x 53.75122pt.
-) (projeto.bbl (projeto.brf)
-\tf@brf=\write6
- [49]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 3.
-
-bibitemlist
-[50
-
-] [51]
-
-LaTeX Font Warning: Font shape `OMS/lmss/m/it' undefined
-(Font)              using `OMS/lmss/m/n' instead on input line 239.
-
 )
 No file projeto.ind.
 
 AED: lastpage setting LastPage
 [52]
-\tf@lof=\write7
-\tf@lot=\write8
-\tf@toc=\write9
+\tf@lof=\write6
+\tf@lot=\write7
+\tf@toc=\write8
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 401.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 401.
  (projeto.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 401.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 401.
-Package rerunfilecheck Info: File `projeto.brf' has not changed.
-(rerunfilecheck)             Checksum: 9B1FC6A7DCE02C624698465C5FACFDC1;2860.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 401.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2097,24 +2143,26 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 401.
  ) 
 Here is how much of TeX's memory you used:
- 26777 strings out of 493698
- 459829 string characters out of 3144409
- 695309 words of memory out of 3000000
- 29174 multiletter control sequences out of 15000+200000
- 109968 words of font info for 189 fonts, out of 3000000 for 9000
+ 26471 strings out of 493698
+ 455507 string characters out of 3144409
+ 690964 words of memory out of 3000000
+ 28866 multiletter control sequences out of 15000+200000
+ 116255 words of font info for 193 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 60i,12n,54p,1404b,664s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,12n,54p,1404b,670s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.
 9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss8.pfb><C:/Program Files
-/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/lm/lmsso10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
-lm/lmsso12.pfb>
-Output written on projeto.pdf (53 pages, 24327141 bytes).
+/MiKTeX 2.9/fonts/type1/public/lm/lmssbo10.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/lm/lmsso10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsso12.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/lm/lmtti10.pfb>
+Output written on projeto.pdf (53 pages, 24383758 bytes).
 PDF statistics:
- 959 PDF objects out of 1000 (max. 8388607)
+ 916 PDF objects out of 1000 (max. 8388607)
  192 named destinations out of 1000 (max. 500000)
- 30206 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 32254 words of extra memory for PDF output out of 35830 (max. 10000000)
 

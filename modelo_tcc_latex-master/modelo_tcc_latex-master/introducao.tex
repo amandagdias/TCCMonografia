@@ -3,11 +3,11 @@
 
 “Com o advento da realidade virtual e o avanço dos recursos computacionais, as representações interativas e imersivas do imaginário, bem como a reprodução do real, tornaram-se mais fáceis de serem obtidas.” \cite[p. ~9]{torilivro}
 
-A realidade virtual (RV) vem ganhando espaço em diversos setores como jogos, indústria e educação. Na área de jogos, empresas como Playstation® e Oculus® oferecem um acervo de jogos para as suas respectivas plataformas. Ao procurar por jogos em RV na Google Play \cite{googleplay}, encontram-se algumas opções fornecidas por diversas empresas.
+A realidade virtual (RV) vem ganhando espaço em diversos setores como jogos, indústria, educação, entre outros. Na área de jogos, empresas como Playstation® e Oculus® oferecem um acervo de jogos para as suas respectivas plataformas. Ao procurar por jogos em RV na Google Play \cite{googleplay}, encontram-se algumas opções fornecidas por diversas empresas.
 
-Na indústria, a RV pode ser utilizada para avaliar o design de um produto antes do mesmo ser produzido. A montadora \textit{The Ford Motor Company} é uma das empresas que utilizam a realidade virtual. Com esta tecnologia, é possível visualizar virtualmente tanto o exterior como o interior de um carro a ser produzido e avaliar aspectos de engenharia e design. “A realidade virtual pode ser mais efetiva do que desenvolver o design no mundo real. Só neste ano, designers e engenheiros verificaram mais de 135.000 detalhes em 193 protótipos virtuais de veículos” \cite[tradução nossa]{ford}. 
+Na indústria, a RV pode ser utilizada para avaliar o design de um produto antes do mesmo ser produzido. A montadora \textit{The Ford Motor Company} é uma das empresas que utilizam a realidade virtual. Com esta tecnologia, é possível visualizar virtualmente tanto o exterior como o interior de um carro a ser produzido e avaliar aspectos de engenharia e design. De acordo com \citeonline[tradução nossa]{ford}, “A realidade virtual pode ser mais efetiva do que desenvolver o design no mundo real. Só neste ano, designers e engenheiros verificaram mais de 135.000 detalhes em 193 protótipos virtuais de veículos.”. 
 
-Já na área da educação, a realidade virtual pode ser aplicada por meio de jogos educativos e aulas imersivas. Imagine utilizar a RV em uma aula de história para simular um acontecimento histórico, ou ter a sensação de estar no espaço enquanto assiste uma aula de astronomia. Pesquisas como \cite{youngblut} e \cite{carvalho} mostram como a realidade virtual pode ser incorporada na escola.
+Já na área da educação, a realidade virtual pode ser aplicada por meio de jogos educativos e aulas imersivas. Imagine utilizar a RV em uma aula de história para simular um acontecimento histórico, ou ter a sensação de estar no espaço enquanto assiste uma aula de astronomia. Pesquisas como \citeonline{youngblut} e \citeonline{carvalho} mostram como a realidade virtual pode ser incorporada na escola.
 
 Para se obter uma experiência em realidade virtual, são necessários capacetes de visualização ou óculos de RV, um \textit{display} por onde a aplicação irá rodar, um dispositivo de interação e a aplicação em RV. 
 
@@ -18,21 +18,19 @@ Atualmente existem vários modelos de óculos de RV com suporte à realidade vir
 	\centering
 	\includegraphics[scale=0.15]{Imagens/daydream.jpg}
 	\label{f.daydream}
-	\legend{\small Fonte: \cite{daydream}}
+	\legend{\small Fonte: \citeonline{daydream}}
 \end{figure}
 
 As aplicações em RV podem ser desenvolvidas tanto para computadores como para dispositivos móveis. A principal diferença entre as duas plataformas é a capacidade de processamento e memória, que são inferiores nos dispositivos móveis. Para as aplicações \textit{desktop} utiliza-se óculos de RV como o Oculus Rift para executar a aplicação. Já nas aplicações para dispositivos móveis, é necessário um visualizador como o Google Cardboard por onde o \textit{smartphone} será encaixado.
 
-Em todos os casos, uma aplicação em realidade virtual deve permitir algum tipo de interação. Para isso, com o visualizador posicionado na cabeça do usuário, é possível utilizar a movimentação da cabeça e um controle externo como luvas, mouse 3D, \textit{joystick}, entre outros. A grande dificuldade é encontrar uma forma de interação que seja viável e que garanta usabilidade e experiência satisfatórias aos usuários. “A necessidade de se fazer uso de aparatos tecnológicos para a interação do usuário com o ambiente virtual provoca restrições, tanto pelo aspecto econômico e tecnológico, quanto pelo desconforto, mas permite ao usuário fazer coisas que antes eram impossíveis ou inviáveis. ” \cite[p. ~3]{torilivro}
+Em todos os casos, uma aplicação em realidade virtual deve permitir algum tipo de interação. Com o visualizador posicionado na cabeça do usuário, é possível utilizar a movimentação da cabeça e um controle externo como luvas, mouse 3D, \textit{joystick}, entre outros para interagir com uma aplicação em RV. A grande dificuldade é encontrar uma forma de interação que seja viável e que garanta usabilidade e experiência satisfatórias aos usuários. “A necessidade de se fazer uso de aparatos tecnológicos para a interação do usuário com o ambiente virtual provoca restrições, tanto pelo aspecto econômico e tecnológico, quanto pelo desconforto, mas permite ao usuário fazer coisas que antes eram impossíveis ou inviáveis. ” \cite[p. ~3]{torilivro}
 
 Este projeto utiliza óculos de RV e um dispositivo móvel para criar uma aplicação que explora os conceitos da realidade virtual visando explorar diferentes formas de interação utilizando controles externos.
 
 \section{Problema}
 \label{s.problema}
 
-Apesar da quantidade de aplicações desenvolvidas utilizando RV para dispositivos móveis estar em crescimento, ela é pequena em comparação com aplicações para \textit{smartphones} sem a tecnologia de RV. Além disso, os estudos de formas de interação com aplicações em RV que possam propiciar conforto, eficácia e conectividade adequada com \textit{smartphones} são atuais. 
-
-O Google Cardboard versão 1 propõe apenas duas formas de interação com o usuário: Movimentação da cabeça e um par de ímãs que, quando utilizados representam um toque na tela, seu funcionamento é ilustrado na Figura ~\ref{f.cardboard1}. Já a versão 2 não possui ímãs e utiliza o toque na tela como forma de interação como é ilustrado nas Figuras ~\ref{f.botaocardboard1} e ~\ref{f.botaocardboard2}. Atualmente, o suporte para a interação via ímã está sendo descontinuado e, por isso, as análises foram feitas utilizando o Google Cardboard versão 2.
+Atualmente, o capacete de visualização mais acessível para se obter uma experiência em RV é o Google Cardboard. No entanto, este visualizador possui opções de interatividade limitadas. O Google Cardboard versão 1 propõe apenas duas formas de interação com o usuário: Movimentação da cabeça e um par de ímãs que, quando utilizados representam um toque na tela, seu funcionamento é ilustrado na Figura ~\ref{f.cardboard1}. Já a versão 2 não possui ímãs e utiliza o toque na tela como forma de interação como é ilustrado nas Figuras ~\ref{f.botaocardboard1} e ~\ref{f.botaocardboard2}. Atualmente, o suporte para a interação via ímã está sendo descontinuado e, por isso, as análises foram feitas utilizando o Google Cardboard versão 2.
 
 \begin{figure}[H]
 	\caption{\small Funcionamento do ímã}
@@ -62,13 +60,15 @@ O Google Cardboard versão 1 propõe apenas duas formas de interação com o usu
 	\end{minipage}
 \end{figure}
 
-Contar apenas com duas formas de entrada de dados, limita as opções de interação do usuário com a aplicação. A empresa Oculus®, vende seus óculos de RV juntamente com um controle de vídeo game, o que garante maior flexibilidade na criação de aplicações em RV. No entanto, a diferença de preço entre o Google Cardboard e o Oculus Rift é significativa, isto é,  o primeiro custa aproximadamente duzentas vezes o preço do segundo.
+Contar apenas com duas formas de entrada de dados, limita as opções de interação do usuário com a aplicação além de exigir maior cuidado por parte do desenvolvedor para garantir que o usuário consiga realizar todas as ações da aplicação. A empresa Oculus®, vende seus óculos de RV juntamente com um controle de vídeo game, o que garante maior flexibilidade na criação de aplicações em RV. No entanto, a diferença de preço entre o Google Cardboard e o Oculus Rift é significativa, isto é,  o primeiro custa aproximadamente duzentas vezes o preço do segundo.
 
-Encontrar formas de interação ótimas para um determinado ambiente é um problema muito estudado na área de Interação Humano-Computador pois, com os avanços tecnológicos, surgem novas possibilidades de interação. É o caso da realidade virtual, onde o usuário utiliza o próprio corpo como forma de entrada de dados. Também é possível utilizar um controle externo para ações adicionais, no entanto, a escolha deste controle precisa ser estudada.
+Existem estudos que avaliam formas de interação entre o usuário e o computador, no entanto, não são encontrados muitos estudos que utilizam o ambiente em RV para avaliar dispositivos de interação. Encontrar formas de interação ótimas para um determinado ambiente é um problema muito estudado na área de Interação Humano-Computador pois, com os avanços tecnológicos, surgem novas possibilidades de interação. É o caso da realidade virtual, onde o usuário utiliza o próprio corpo como forma de entrada de dados. Também é possível utilizar um controle externo para ações adicionais, no entanto, a escolha deste controle precisa ser estudada.
 
 \begin{citacao}
-A grande maioria dos usuários não consegue dominar todas as funcionalidades de um sistema antes que mais funções sejam adicionadas, isso acontece porque com a evolução tecnológica caminhando a passos largos, as novas possibilidades saltam aos olhos dos fabricantes de hardware e desenvolvedores de software, celulares equipados com GPS, câmeras digitais com reconhecimento facial, telas sensíveis ao toque, jogadores controlando jogos apenas movimentando o próprio corpo, interação com objetos virtuais através da realidade aumentada, interação ativa do telespectador com a televisão. Todas essas tecnologias desafiam os fabricantes a criar interfaces que possibilitem o acesso a essas novidades sem perder a objetividade e a clareza. \cite{oliveira}
+"A grande maioria dos usuários não consegue dominar todas as funcionalidades de um sistema antes que mais funções sejam adicionadas, isso acontece porque com a evolução tecnológica caminhando a passos largos, as novas possibilidades saltam aos olhos dos fabricantes de hardware e desenvolvedores de software, celulares equipados com GPS, câmeras digitais com reconhecimento facial, telas sensíveis ao toque, jogadores controlando jogos apenas movimentando o próprio corpo, interação com objetos virtuais através da realidade aumentada, interação ativa do telespectador com a televisão. Todas essas tecnologias desafiam os fabricantes a criar interfaces que possibilitem o acesso a essas novidades sem perder a objetividade e a clareza." \cite{oliveira}
 \end{citacao}
+
+É preciso avaliar controles de interação no contexto da realidade virtual já que este difere do contexto convencional em vários aspectos. Um dispositivo de interação que possui um alto desempenho em aplicações não imersivas, pode não apresentar as mesmas característica em um ambiente imersivo. Ademais, apesar da quantidade de aplicações desenvolvidas utilizando RV para dispositivos móveis estar em crescimento, ela é pequena em comparação com aplicações para \textit{smartphones} sem a tecnologia de RV.  
 
 \section{Justificativa}
 \label{s.justificativa}
@@ -84,7 +84,7 @@ Por fim, o projeto pode ser realizado com materiais de baixo custo e de fácil a
 
 \subsection{Objetivo Geral}
 \label{s.geral}
-Explorar formas de interação do usuário em aplicação de RV executada em dispositivos móveis por intermédio de um controle externo.
+Avaliar formas de interação do usuário em aplicação de RV executada em \textit{smartphones} por intermédio de um controle externo.
 
 \subsection{Objetivos Específicos}
 \label{s.especifico}
@@ -95,3 +95,6 @@ Explorar formas de interação do usuário em aplicação de RV executada em dis
 - Identificar dispositivos físicos como forma de controle na interação entre o usuário e a aplicação RV.
 
 - Realizar a análise dos controles físicos.
+
+Nos próximos capítulos, serão estudados os aspectos da realidade virtual e os fatores que devem ser considerados ao se desenvolver uma aplicação em RV. Os dispositivos de controle de interação homem/máquina também serão explorados a fim de justificar o uso dos \textit{smartphones} para o desenvolvimento de aplicações em RV. Por fim, todos os aspectos do desenvolvimento do trabalho serão explanados bem como o resultado das análises realizadas nos dispositivos de interação. 
+
